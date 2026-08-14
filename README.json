@@ -160,7 +160,7 @@
             "last_commit": "2026-08-13T17:55:13Z",
             "owner": "georust",
             "repo": "geo",
-            "stars": 1911
+            "stars": 1912
           }
         },
         {
@@ -210,9 +210,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:11:15.990Z",
+    "last_updated": "2026-08-14T22:48:00.912Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
-    "original_repository_sha": "aa7751a97c9df7dcf89e18e5ad5c2c3683b3d6d1",
+    "original_repository_sha": "f33ebdb0907aa4ea469313852e081d2f64d3f4b8",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"
