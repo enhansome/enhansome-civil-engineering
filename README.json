@@ -47,7 +47,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-13T14:55:38Z",
+            "last_commit": "2026-08-16T20:27:41Z",
             "owner": "yeesian",
             "repo": "ArchGDAL.jl",
             "stars": 150
@@ -210,7 +210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:45:46.099Z",
+    "last_updated": "2026-08-16T22:45:00.169Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
     "original_repository_sha": "f33ebdb0907aa4ea469313852e081d2f64d3f4b8",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",

@@ -300,7 +300,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 665 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-15 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 670 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-15 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -387,7 +387,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 96 | 🌐 Julia | 📅 2026-08-13 - GDAL bindings for raster and vector geospatial workflows.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 97 | 🌐 Julia | 📅 2026-08-16 - GDAL bindings for raster and vector geospatial workflows.
 * [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 25 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
@@ -472,4 +472,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
