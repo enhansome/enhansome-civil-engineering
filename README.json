@@ -157,7 +157,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:55:13Z",
+            "last_commit": "2026-08-17T21:10:19Z",
             "owner": "georust",
             "repo": "geo",
             "stars": 1912
@@ -210,7 +210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:45:00.169Z",
+    "last_updated": "2026-08-17T22:48:53.358Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
     "original_repository_sha": "f33ebdb0907aa4ea469313852e081d2f64d3f4b8",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
