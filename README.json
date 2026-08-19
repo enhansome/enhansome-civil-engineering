@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 29326047,
                 "language": "Rust",
-                "last_commit": "2026-08-19T09:20:39Z",
+                "last_commit": "2026-08-19T20:42:56Z",
                 "owner": "georust",
                 "repo": "geo",
                 "stars": 1914
@@ -216,7 +216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:34.051Z",
+    "last_updated": "2026-08-19T22:49:31.339Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
     "original_repository_id": 597700847,
     "original_repository_sha": "f33ebdb0907aa4ea469313852e081d2f64d3f4b8",
