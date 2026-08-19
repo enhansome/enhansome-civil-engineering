@@ -1,217 +1,224 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Web Calculators"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GeoEq",
+              "description": "Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194292331,
+                "language": "Python",
+                "last_commit": "2026-07-30T08:53:43Z",
+                "owner": "geoeq",
+                "repo": "geoeq",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ArchGDAL.jl",
+              "description": "GDAL bindings for raster and vector geospatial workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63650110,
+                "language": "Julia",
+                "last_commit": "2026-08-16T20:27:41Z",
+                "owner": "yeesian",
+                "repo": "ArchGDAL.jl",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeoDataFrames.jl",
+              "description": "Read and write vector geospatial data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318498541,
+                "language": "Julia",
+                "last_commit": "2026-08-13T01:10:59Z",
+                "owner": "evetion",
+                "repo": "GeoDataFrames.jl",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Julia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DotSpatial",
+              "description": "GIS library and desktop mapping components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57040630,
+                "language": "C#",
+                "last_commit": "2025-10-22T12:18:16Z",
+                "owner": "DotSpatial",
+                "repo": "DotSpatial",
+                "stars": 922
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SharpMap",
+              "description": "Mapping library for .NET applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41673786,
+                "language": "C#",
+                "last_commit": "2025-01-06T15:20:53Z",
+                "owner": "SharpMap",
+                "repo": "SharpMap",
+                "stars": 861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeoJSON.Net",
+              "description": "GeoJSON types and serialization for .NET.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1241202,
+                "language": "C#",
+                "last_commit": "2024-08-12T09:05:16Z",
+                "owner": "GeoJSON-Net",
+                "repo": "GeoJSON.Net",
+                "stars": 462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProjNet",
+              "description": "Coordinate system and projection transformations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23313631,
+                "language": "C#",
+                "last_commit": "2025-08-18T09:49:25Z",
+                "owner": "NetTopologySuite",
+                "repo": "ProjNet4GeoAPI",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SharpKml",
+              "description": "KML processing for geospatial data exchange.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106904666,
+                "language": "C#",
+                "last_commit": "2024-04-18T06:24:51Z",
+                "owner": "samcragg",
+                "repo": "sharpkml",
+                "stars": 167
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C# and .NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "geo",
+              "description": "Geospatial primitives, algorithms, and geometry operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29326047,
+                "language": "Rust",
+                "last_commit": "2026-08-19T09:20:39Z",
+                "owner": "georust",
+                "repo": "geo",
+                "stars": 1914
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gdal",
+              "description": "GDAL bindings for geospatial raster and vector data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18332499,
+                "language": "Rust",
+                "last_commit": "2026-07-06T04:43:22Z",
+                "owner": "georust",
+                "repo": "gdal",
+                "stars": 447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojson",
+              "description": "Read and write GeoJSON data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24011994,
+                "language": "Rust",
+                "last_commit": "2026-04-29T23:32:48Z",
+                "owner": "georust",
+                "repo": "geojson",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "proj",
+              "description": "Coordinate projection bindings for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38347679,
+                "language": "Rust",
+                "last_commit": "2026-06-17T20:22:17Z",
+                "owner": "georust",
+                "repo": "proj",
+                "stars": 184
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        }
+      ],
       "title": "Programming Resources and Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GeoEq",
-          "description": "Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-30T08:53:43Z",
-            "owner": "geoeq",
-            "repo": "geoeq",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python for Civil and Structural Engineers",
-          "description": "Tutorials and examples for applying Python to civil and structural engineering problems.",
-          "children": []
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ArchGDAL.jl",
-          "description": "GDAL bindings for raster and vector geospatial workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-08-16T20:27:41Z",
-            "owner": "yeesian",
-            "repo": "ArchGDAL.jl",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeoDataFrames.jl",
-          "description": "Read and write vector geospatial data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-08-13T01:10:59Z",
-            "owner": "evetion",
-            "repo": "GeoDataFrames.jl",
-            "stars": 70
-          }
-        }
-      ],
-      "title": "Julia"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DotSpatial",
-          "description": "GIS library and desktop mapping components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-10-22T12:18:16Z",
-            "owner": "DotSpatial",
-            "repo": "DotSpatial",
-            "stars": 922
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SharpMap",
-          "description": "Mapping library for .NET applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-01-06T15:20:53Z",
-            "owner": "SharpMap",
-            "repo": "SharpMap",
-            "stars": 861
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeoJSON.Net",
-          "description": "GeoJSON types and serialization for .NET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-08-12T09:05:16Z",
-            "owner": "GeoJSON-Net",
-            "repo": "GeoJSON.Net",
-            "stars": 462
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProjNet",
-          "description": "Coordinate system and projection transformations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-08-18T09:49:25Z",
-            "owner": "NetTopologySuite",
-            "repo": "ProjNet4GeoAPI",
-            "stars": 302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SharpKml",
-          "description": "KML processing for geospatial data exchange.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-04-18T06:24:51Z",
-            "owner": "samcragg",
-            "repo": "sharpkml",
-            "stars": 167
-          }
-        }
-      ],
-      "title": "C# and .NET"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "geo",
-          "description": "Geospatial primitives, algorithms, and geometry operations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T21:26:41Z",
-            "owner": "georust",
-            "repo": "geo",
-            "stars": 1914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gdal",
-          "description": "GDAL bindings for geospatial raster and vector data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-06T04:43:22Z",
-            "owner": "georust",
-            "repo": "gdal",
-            "stars": 447
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "geojson",
-          "description": "Read and write GeoJSON data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-29T23:32:48Z",
-            "owner": "georust",
-            "repo": "geojson",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "proj",
-          "description": "Coordinate projection bindings for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-17T20:22:17Z",
-            "owner": "georust",
-            "repo": "proj",
-            "stars": 184
-          }
-        }
-      ],
-      "title": "Rust"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:48:39.373Z",
+    "last_updated": "2026-08-19T12:21:34.051Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
+    "original_repository_id": 597700847,
     "original_repository_sha": "f33ebdb0907aa4ea469313852e081d2f64d3f4b8",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
