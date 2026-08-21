@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 63650110,
                 "language": "Julia",
-                "last_commit": "2026-08-20T06:28:31Z",
+                "last_commit": "2026-08-21T08:15:13Z",
                 "owner": "yeesian",
                 "repo": "ArchGDAL.jl",
                 "stars": 150
@@ -121,7 +121,7 @@
                 "last_commit": "2025-08-18T09:49:25Z",
                 "owner": "NetTopologySuite",
                 "repo": "ProjNet4GeoAPI",
-                "stars": 302
+                "stars": 301
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-20T17:04:21Z",
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1914
+                "stars": 1915
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-07-06T04:43:22Z",
                 "owner": "georust",
                 "repo": "gdal",
-                "stars": 447
+                "stars": 448
               }
             },
             {
@@ -216,7 +216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:53:48.188Z",
+    "last_updated": "2026-08-21T22:48:59.679Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
     "original_repository_id": 597700847,
     "original_repository_sha": "f33ebdb0907aa4ea469313852e081d2f64d3f4b8",
