@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T08:53:43Z",
                 "owner": "geoeq",
                 "repo": "geoeq",
-                "stars": 71
+                "stars": 72
               }
             }
           ],
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 29326047,
                 "language": "Rust",
-                "last_commit": "2026-08-20T17:04:21Z",
+                "last_commit": "2026-08-22T08:56:17Z",
                 "owner": "georust",
                 "repo": "geo",
                 "stars": 1915
@@ -216,10 +216,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:48:59.679Z",
+    "last_updated": "2026-08-22T22:46:33.426Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
     "original_repository_id": 597700847,
-    "original_repository_sha": "f33ebdb0907aa4ea469313852e081d2f64d3f4b8",
+    "original_repository_sha": "345e249cd54e90d99d69e69ffd9b3d270316e5f6",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"

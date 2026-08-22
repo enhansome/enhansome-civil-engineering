@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 83 | 🐛 1 | 🌐 Python | 📅 2026-08-14
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 83 | 🐛 0 | 🌐 Python | 📅 2026-08-22
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -230,6 +230,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 * [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - Cloud-based structural analysis software.
 * [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams.
+* [Xarpis 2D Frame & Beam FEA](https://www.xarpis.com/calculators/frame-fea-2d) - Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes.
 
 ### Concrete and Construction
 
@@ -300,7 +301,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 697 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-21 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 702 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-22 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -357,7 +358,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Python
 
-* [GeoEq](https://github.com/geoeq/geoeq) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-07-30 - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
+* [GeoEq](https://github.com/geoeq/geoeq) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2026-07-30 - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
 * [Python for Civil and Structural Engineers](https://github.com/DrSokac/Python-for-civil-and-structural-engineers) - Tutorials and examples for applying Python to civil and structural engineering problems.
 * [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
 * [SciPy](https://scipy.org/) - Scientific computing, optimization, sparse matrices, and numerical methods.
@@ -418,7 +419,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,915 | 🐛 120 | 🌐 Rust | 📅 2026-08-20 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,915 | 🐛 120 | 🌐 Rust | 📅 2026-08-22 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 448 | 🐛 62 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 344 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 184 | 🐛 39 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
@@ -472,4 +473,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
