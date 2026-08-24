@@ -208,6 +208,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Calculations
 
+* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 0 | 🐛 0 | 📅 2026-07-31 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
 * [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Free mathematical notebook program for engineering calculations.
 * [Mathcad](https://www.mathcad.com/en) - Engineering calculation worksheet software.
 * [Blockpad](https://blockpad.net/) - Dynamic calculation documents that work like a spreadsheet.
@@ -222,7 +223,6 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [Julia](https://julialang.org/) - High-level programming language for numerical and scientific computing.
 * [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
 * [SymPy](https://docs.sympy.org/) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
-* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 0 | 🐛 0 | 📅 2026-07-31 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
 
 ## Web Calculators
 
@@ -301,7 +301,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 708 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-23 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 708 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-24 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -388,7 +388,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 94 | 🌐 Julia | 📅 2026-08-21 - GDAL bindings for raster and vector geospatial workflows.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 95 | 🌐 Julia | 📅 2026-08-24 - GDAL bindings for raster and vector geospatial workflows.
 * [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 25 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
@@ -473,4 +473,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

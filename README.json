@@ -4,6 +4,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Construction Takeoff Practice Plans",
+          "description": "Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1315735815,
+            "language": null,
+            "last_commit": "2026-07-31T01:25:17Z",
+            "owner": "krflol",
+            "repo": "takeoff-field-tools-practice-plans",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Calculations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenConstructionERP",
+          "description": "Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1199643986,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:44:24Z",
+            "owner": "datadrivenconstruction",
+            "repo": "OpenConstructionERP",
+            "stars": 708
+          }
+        }
+      ],
+      "title": "Project Management"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -36,7 +78,7 @@
                 "archived": false,
                 "id": 63650110,
                 "language": "Julia",
-                "last_commit": "2026-08-21T08:15:13Z",
+                "last_commit": "2026-08-24T01:32:46Z",
                 "owner": "yeesian",
                 "repo": "ArchGDAL.jl",
                 "stars": 150
@@ -216,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:46:25.069Z",
+    "last_updated": "2026-08-24T14:45:23.885Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
     "original_repository_id": 597700847,
     "original_repository_sha": "345e249cd54e90d99d69e69ffd9b3d270316e5f6",
