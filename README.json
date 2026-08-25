@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1315735815,
             "language": null,
-            "last_commit": "2026-07-31T01:25:17Z",
+            "last_commit": "2026-08-25T17:54:39Z",
             "owner": "krflol",
             "repo": "takeoff-field-tools-practice-plans",
             "stars": 0
@@ -33,10 +33,10 @@
             "archived": false,
             "id": 1199643986,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:09:12Z",
+            "last_commit": "2026-08-25T22:38:42Z",
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 711
+            "stars": 714
           }
         }
       ],
@@ -133,7 +133,7 @@
                 "last_commit": "2025-01-06T15:20:53Z",
                 "owner": "SharpMap",
                 "repo": "SharpMap",
-                "stars": 861
+                "stars": 860
               }
             },
             {
@@ -258,10 +258,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:07.253Z",
+    "last_updated": "2026-08-25T22:53:08.607Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
     "original_repository_id": 597700847,
-    "original_repository_sha": "345e249cd54e90d99d69e69ffd9b3d270316e5f6",
+    "original_repository_sha": "1492b891e7e8a33d40c05566ce07098f7dc3c036",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"
