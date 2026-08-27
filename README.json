@@ -33,10 +33,10 @@
             "archived": false,
             "id": 1199643986,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T22:38:42Z",
+            "last_commit": "2026-08-27T03:23:01Z",
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 714
+            "stars": 717
           }
         }
       ],
@@ -197,10 +197,10 @@
                 "archived": false,
                 "id": 29326047,
                 "language": "Rust",
-                "last_commit": "2026-08-22T08:56:17Z",
+                "last_commit": "2026-08-26T21:29:04Z",
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1916
+                "stars": 1917
               }
             },
             {
@@ -258,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:53:08.607Z",
+    "last_updated": "2026-08-27T03:25:40.666Z",
     "original_repository": "QuantumNovice/awesome-civil-engineering",
     "original_repository_id": 597700847,
     "original_repository_sha": "1492b891e7e8a33d40c05566ce07098f7dc3c036",

@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 83 | 🐛 0 | 🌐 Python | 📅 2026-08-25
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-08-25
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -303,7 +303,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 714 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-25 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 717 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-27 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -413,7 +413,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [DotSpatial](https://github.com/DotSpatial/DotSpatial) ⭐ 922 | 🐛 255 | 🌐 C# | 📅 2025-10-22 - GIS library and desktop mapping components.
 * [SharpMap](https://github.com/SharpMap/SharpMap) ⭐ 860 | 🐛 48 | 🌐 C# | 📅 2025-01-06 - Mapping library for .NET applications.
 * [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) ⭐ 462 | 🐛 20 | 🌐 C# | 📅 2024-08-12 - GeoJSON types and serialization for .NET.
-* [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) ⭐ 301 | 🐛 53 | 🌐 C# | 📅 2025-08-18 - Coordinate system and projection transformations.
+* [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) ⭐ 301 | 🐛 54 | 🌐 C# | 📅 2025-08-18 - Coordinate system and projection transformations.
 * [SharpKml](https://github.com/samcragg/sharpkml) ⭐ 167 | 🐛 7 | 🌐 C# | 📅 2024-04-18 - KML processing for geospatial data exchange.
 * [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/) - Official C# language documentation.
 * [NetTopologySuite](https://nettopologysuite.github.io/NetTopologySuite/) - Geometry and spatial operations for .NET.
@@ -421,7 +421,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,916 | 🐛 120 | 🌐 Rust | 📅 2026-08-22 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,917 | 🐛 123 | 🌐 Rust | 📅 2026-08-26 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 448 | 🐛 62 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 344 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 184 | 🐛 39 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
@@ -475,4 +475,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
