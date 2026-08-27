@@ -33,10 +33,10 @@
             "archived": false,
             "id": 1199643986,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:23:01Z",
+            "last_commit": "2026-08-27T11:25:53Z",
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 717
+            "stars": 719
           }
         }
       ],
@@ -258,9 +258,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:25:40.666Z",
-    "original_repository": "QuantumNovice/awesome-civil-engineering",
-    "original_repository_id": 597700847,
+    "last_updated": "2026-08-27T11:28:28.242Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 597700847,
+      "language": "Python",
+      "last_commit": "2026-08-25T16:27:44Z",
+      "owner": "QuantumNovice",
+      "repo": "awesome-civil-engineering",
+      "stars": 84
+    },
     "original_repository_sha": "1492b891e7e8a33d40c05566ce07098f7dc3c036",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
