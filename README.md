@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-08-25
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-08-28
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -208,11 +208,11 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Calculations
 
-* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 0 | 🐛 0 | 📅 2026-08-25 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
+* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
 * [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Free mathematical notebook program for engineering calculations.
 * [Mathcad](https://www.mathcad.com/en) - Engineering calculation worksheet software.
 * [Blockpad](https://blockpad.net/) - Dynamic calculation documents that work like a spreadsheet.
-* [EngineeringPaper.xyz](https://engineeringpaper.xyz/) - Free and open-source browser-based engineering calculations.
+* [EngineeringPaper.xyz](https://engineeringpaper.xyz) - Free and open-source browser-based engineering calculations.
 * [MATLAB](https://www.mathworks.com/products/matlab.html) - Numerical computing software by MathWorks.
 * [GNU Octave](https://octave.org/) - Free and open-source alternative to MATLAB.
 * [R](https://www.r-project.org/) - Programming language for statistical computing and data analysis.
@@ -236,12 +236,12 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Concrete and Construction
 
-* [SlabCalc.co](https://slabcalc.co/) - Concrete calculator for slabs, driveways, patios, foundations, volume, and cost estimation.
-* [Concrete Calculate](https://concrete-calculate.com/) - Concrete volume, bag count (40/60/80 lb), weight, and 2026 cost calculator for slabs, columns, steps, and curbs. Imperial and metric.
+* [SlabCalc.co](https://slabcalc.co) - Concrete calculator for slabs, driveways, patios, foundations, volume, and cost estimation.
+* [Concrete Calculate](https://concrete-calculate.com) - Concrete volume, bag count (40/60/80 lb), weight, and 2026 cost calculator for slabs, columns, steps, and curbs. Imperial and metric.
 * [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete calculators and reference guides for concrete volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning.
-* [Asphalt Calculate](https://asphalt-calculate.com/) - Asphalt tonnage, cost, and thickness calculator for driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shaped areas.
-* [RoofingCalculatorHQ](https://roofingcalculatorhq.com/) - Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports.
-* [BuildRefs](https://buildrefs.com/) - Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login.
+* [Asphalt Calculate](https://asphalt-calculate.com) - Asphalt tonnage, cost, and thickness calculator for driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shaped areas.
+* [RoofingCalculatorHQ](https://roofingcalculatorhq.com) - Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports.
+* [BuildRefs](https://buildrefs.com) - Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login.
 * [Concrete Network Calculator](https://www.concretenetwork.com/concrete/howmuch/calculator.htm) - Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags.
 * [Build Quantities](https://buildquantities.com/calculators/) - Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations.
 
@@ -283,6 +283,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## GIS
 
+* [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-08-21 - QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.
 * [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - GIS software by Esri.
 * [QGIS](https://qgis.org/) - Open-source GIS software.
 * [SAGA](https://saga-gis.sourceforge.io/) - GIS for editing and analyzing spatial data.
@@ -303,7 +304,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 719 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-27 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 720 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-28 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -390,7 +391,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 95 | 🌐 Julia | 📅 2026-08-24 - GDAL bindings for raster and vector geospatial workflows.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 95 | 🌐 Julia | 📅 2026-08-27 - GDAL bindings for raster and vector geospatial workflows.
 * [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 25 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
@@ -475,4 +476,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

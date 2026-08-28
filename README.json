@@ -11,15 +11,38 @@
           "repo_info": {
             "archived": false,
             "id": 1315735815,
-            "language": null,
-            "last_commit": "2026-08-25T17:54:39Z",
+            "language": "Python",
+            "last_commit": "2026-08-27T22:56:35Z",
             "owner": "krflol",
             "repo": "takeoff-field-tools-practice-plans",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:12:49.766Z"
         }
       ],
       "title": "Calculations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI Segmentation by TerraLab",
+          "description": "QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1138307131,
+            "language": "Python",
+            "last_commit": "2026-08-21T08:35:20Z",
+            "owner": "TerraLabAI",
+            "repo": "QGIS_AI-Segmentation",
+            "stars": 35
+          },
+          "first_seen": "2026-08-28T06:12:49.766Z"
+        }
+      ],
+      "title": "GIS"
     },
     {
       "description": null,
@@ -33,11 +56,12 @@
             "archived": false,
             "id": 1199643986,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:25:53Z",
+            "last_commit": "2026-08-28T05:42:52Z",
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 719
-          }
+            "stars": 720
+          },
+          "first_seen": "2026-08-28T06:12:49.766Z"
         }
       ],
       "title": "Project Management"
@@ -60,7 +84,8 @@
                 "owner": "geoeq",
                 "repo": "geoeq",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             }
           ],
           "description": null,
@@ -78,11 +103,12 @@
                 "archived": false,
                 "id": 63650110,
                 "language": "Julia",
-                "last_commit": "2026-08-24T01:32:46Z",
+                "last_commit": "2026-08-27T20:37:59Z",
                 "owner": "yeesian",
                 "repo": "ArchGDAL.jl",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             },
             {
               "node_type": "item",
@@ -97,7 +123,8 @@
                 "owner": "evetion",
                 "repo": "GeoDataFrames.jl",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             }
           ],
           "description": null,
@@ -119,7 +146,8 @@
                 "owner": "DotSpatial",
                 "repo": "DotSpatial",
                 "stars": 922
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             },
             {
               "node_type": "item",
@@ -134,7 +162,8 @@
                 "owner": "SharpMap",
                 "repo": "SharpMap",
                 "stars": 860
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             },
             {
               "node_type": "item",
@@ -149,7 +178,8 @@
                 "owner": "GeoJSON-Net",
                 "repo": "GeoJSON.Net",
                 "stars": 462
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             },
             {
               "node_type": "item",
@@ -164,7 +194,8 @@
                 "owner": "NetTopologySuite",
                 "repo": "ProjNet4GeoAPI",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             },
             {
               "node_type": "item",
@@ -179,7 +210,8 @@
                 "owner": "samcragg",
                 "repo": "sharpkml",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             }
           ],
           "description": null,
@@ -201,7 +233,8 @@
                 "owner": "georust",
                 "repo": "geo",
                 "stars": 1917
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             },
             {
               "node_type": "item",
@@ -216,7 +249,8 @@
                 "owner": "georust",
                 "repo": "gdal",
                 "stars": 448
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             },
             {
               "node_type": "item",
@@ -231,7 +265,8 @@
                 "owner": "georust",
                 "repo": "geojson",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             },
             {
               "node_type": "item",
@@ -246,7 +281,8 @@
                 "owner": "georust",
                 "repo": "proj",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T06:12:49.766Z"
             }
           ],
           "description": null,
@@ -258,17 +294,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:28.242Z",
+    "last_updated": "2026-08-28T06:12:49.766Z",
     "original_repository_info": {
       "archived": false,
       "id": 597700847,
       "language": "Python",
-      "last_commit": "2026-08-25T16:27:44Z",
+      "last_commit": "2026-08-28T00:10:32Z",
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
       "stars": 84
     },
-    "original_repository_sha": "1492b891e7e8a33d40c05566ce07098f7dc3c036",
+    "original_repository_sha": "4868e8ad8da0736d05ea69d16256a84bf7461c31",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"
