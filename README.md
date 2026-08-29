@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-08-28
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-08-28
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
