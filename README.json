@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free construction takeoff practice plans: five synthetic plan sets, 42 answer checks, an instructor guide, and an Excel quantity worksheet.",
+            "homepage": "https://takeofffieldtools.com/construction-takeoff-practice-plans.html?utm_source=github&utm_medium=repository&utm_campaign=helpful_tools&utm_content=practice_plan_library&ref=owned_practice_github",
             "id": 1315735815,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-27T22:56:35Z",
+            "open_issues": 0,
             "owner": "krflol",
             "repo": "takeoff-field-tools-practice-plans",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "blueprint-reading",
+              "concrete",
+              "construction",
+              "construction-education",
+              "construction-estimating",
+              "construction-plans",
+              "construction-takeoff",
+              "drywall",
+              "estimating",
+              "estimator-training",
+              "floor-plans",
+              "landscaping",
+              "material-takeoff",
+              "quantity-surveying",
+              "quantity-takeoff",
+              "remodeling",
+              "takeoff",
+              "takeoff-practice",
+              "trade-school",
+              "worksheet"
+            ]
           },
           "first_seen": "2026-08-28T06:12:49.766Z"
         }
@@ -32,12 +58,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment anything on your raster data using AI in QGIS",
+            "homepage": "https://terra-lab.ai/ai-segmentation",
             "id": 1138307131,
             "language": "Python",
-            "last_commit": "2026-08-21T08:35:20Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-28T20:01:12Z",
+            "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Segmentation",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "ai",
+              "geospatial",
+              "qgis",
+              "qgis-plugin",
+              "raster",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T06:12:49.766Z"
         }
@@ -54,12 +92,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching. 42 regional catalogues, 21 languages, 71 modules. AGPL-3.0. v3.0 - pip install openconstructionerp",
+            "homepage": "https://openconstructionerp.com",
             "id": 1199643986,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:42:52Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T20:09:25Z",
+            "open_issues": 16,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 720
+            "stars": 726,
+            "topics": [
+              "4d",
+              "5d",
+              "ai",
+              "autocad",
+              "bill-of-quantities",
+              "bim",
+              "boq",
+              "cad",
+              "calculation",
+              "construction",
+              "cost-estimation",
+              "erp",
+              "fastapi",
+              "ifc",
+              "masterformat",
+              "open-source",
+              "pdf",
+              "qto",
+              "revit",
+              "takeoff"
+            ]
           },
           "first_seen": "2026-08-28T06:12:49.766Z"
         }
@@ -78,12 +142,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Geotechnical engineering, solved in Python. 170+ validated functions for soil mechanics, SPT, CPT, bearing capacity, settlement, liquefaction & slope stability. Apache 2.0.",
+                "homepage": "https://geoeq.org",
                 "id": 1194292331,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T08:53:43Z",
+                "open_issues": 0,
                 "owner": "geoeq",
                 "repo": "geoeq",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "bearing-capacity",
+                  "civil-engineering",
+                  "cpt",
+                  "engineering",
+                  "foundation-design",
+                  "geology",
+                  "geotechnical-engineering",
+                  "geotechnics",
+                  "liquefaction",
+                  "numpy",
+                  "pypi",
+                  "python",
+                  "scientific-computing",
+                  "settlement-analysis",
+                  "slope-stability",
+                  "soil-classification",
+                  "soil-mechanics",
+                  "spt"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             }
@@ -101,12 +189,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high level API for GDAL - Geospatial Data Abstraction Library",
+                "homepage": "https://yeesian.github.io/ArchGDAL.jl/stable/",
                 "id": 63650110,
                 "language": "Julia",
-                "last_commit": "2026-08-27T20:37:59Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T08:14:05Z",
+                "open_issues": 95,
                 "owner": "yeesian",
                 "repo": "ArchGDAL.jl",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "gdal",
+                  "geo",
+                  "geospatial",
+                  "geospatial-data",
+                  "ogr",
+                  "raster",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             },
@@ -117,12 +218,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple geographical vector interaction built on top of ArchGDAL",
+                "homepage": "https://www.evetion.nl/GeoDataFrames.jl/dev/",
                 "id": 318498541,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-13T01:10:59Z",
+                "open_issues": 25,
                 "owner": "evetion",
                 "repo": "GeoDataFrames.jl",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "archgdal",
+                  "dataframe",
+                  "gdal",
+                  "geo",
+                  "geopandas",
+                  "geospatial",
+                  "gis",
+                  "hacktoberfest",
+                  "io",
+                  "julia",
+                  "ogr",
+                  "spatial",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             }
@@ -140,12 +260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Geographic information system library written for .NET",
+                "homepage": null,
                 "id": 57040630,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-10-22T12:18:16Z",
+                "open_issues": 255,
                 "owner": "DotSpatial",
                 "repo": "DotSpatial",
-                "stars": 922
+                "stars": 922,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             },
@@ -156,12 +281,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy-to-use mapping library for use in web and desktop applications",
+                "homepage": null,
                 "id": 41673786,
                 "language": "C#",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-01-06T15:20:53Z",
+                "open_issues": 48,
                 "owner": "SharpMap",
                 "repo": "SharpMap",
-                "stars": 860
+                "stars": 860,
+                "topics": [
+                  "gis",
+                  "map",
+                  "sharpmap"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             },
@@ -172,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".Net library for GeoJSON types & corresponding Json.Net (de)serializers",
+                "homepage": null,
                 "id": 1241202,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-08-12T09:05:16Z",
+                "open_issues": 20,
                 "owner": "GeoJSON-Net",
                 "repo": "GeoJSON.Net",
-                "stars": 462
+                "stars": 462,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             },
@@ -188,12 +327,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET Spatial Reference and Projection Engine",
+                "homepage": null,
                 "id": 23313631,
                 "language": "C#",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-08-18T09:49:25Z",
+                "open_issues": 54,
                 "owner": "NetTopologySuite",
                 "repo": "ProjNet4GeoAPI",
-                "stars": 301
+                "stars": 301,
+                "topics": [
+                  "c-sharp",
+                  "geoapi",
+                  "geospatial",
+                  "gis",
+                  "projections"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             },
@@ -204,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SharpKML is an implementation of the Open Geospatial Consortium (OGC) KML 2.2 standard developed in C#, able to read/write both KML files and KMZ files.",
+                "homepage": null,
                 "id": 106904666,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-04-18T06:24:51Z",
+                "open_issues": 7,
                 "owner": "samcragg",
                 "repo": "sharpkml",
-                "stars": 167
+                "stars": 167,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             }
@@ -227,12 +382,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust geospatial primitives & algorithms",
+                "homepage": "https://crates.io/crates/geo",
                 "id": 29326047,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T21:29:04Z",
+                "open_issues": 124,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1917
+                "stars": 1917,
+                "topics": [
+                  "geography",
+                  "geometry",
+                  "geospatial",
+                  "gis",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             },
@@ -243,12 +409,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust bindings for GDAL",
+                "homepage": "https://crates.io/crates/gdal",
                 "id": 18332499,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-06T04:43:22Z",
+                "open_issues": 62,
                 "owner": "georust",
                 "repo": "gdal",
-                "stars": 448
+                "stars": 448,
+                "topics": [
+                  "gdal",
+                  "geospatial",
+                  "hacktoberfest",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             },
@@ -259,12 +435,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for serializing the GeoJSON vector GIS file format",
+                "homepage": "https://crates.io/crates/geojson",
                 "id": 24011994,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-29T23:32:48Z",
+                "open_issues": 22,
                 "owner": "georust",
                 "repo": "geojson",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "geojson",
+                  "geospatial",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             },
@@ -275,12 +460,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust bindings for the latest stable release of PROJ",
+                "homepage": "https://docs.rs/proj",
                 "id": 38347679,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-17T20:22:17Z",
+                "open_issues": 39,
                 "owner": "georust",
                 "repo": "proj",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "geocoding",
+                  "geodesy",
+                  "geospatial",
+                  "gis",
+                  "proj",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
             }
@@ -294,15 +491,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:12:49.766Z",
+    "last_updated": "2026-08-29T03:47:13.795Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome civil engineering software and programming reosurces",
+      "homepage": null,
       "id": 597700847,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-28T00:10:32Z",
+      "open_issues": 0,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
-      "stars": 84
+      "stars": 84,
+      "topics": [
+        "aec",
+        "awesome",
+        "awesome-list",
+        "bim",
+        "cad",
+        "civil-engineering",
+        "contributions-welcome",
+        "digital-twin",
+        "finite-element-analysis",
+        "geotechnical-engineering",
+        "gis",
+        "hydraulics",
+        "ifc",
+        "javascript",
+        "machine-learning",
+        "python",
+        "rust",
+        "structural-engineering"
+      ]
     },
     "original_repository_sha": "4868e8ad8da0736d05ea69d16256a84bf7461c31",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",

@@ -283,7 +283,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## GIS
 
-* [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-08-21 - QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.
+* [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.
 * [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - GIS software by Esri.
 * [QGIS](https://qgis.org/) - Open-source GIS software.
 * [SAGA](https://saga-gis.sourceforge.io/) - GIS for editing and analyzing spatial data.
@@ -304,7 +304,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 720 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-28 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 726 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-28 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -391,7 +391,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 95 | 🌐 Julia | 📅 2026-08-27 - GDAL bindings for raster and vector geospatial workflows.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 95 | 🌐 Julia | 📅 2026-08-28 - GDAL bindings for raster and vector geospatial workflows.
 * [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 25 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
@@ -476,4 +476,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
