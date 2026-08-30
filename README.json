@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T20:09:25Z",
+            "last_commit": "2026-08-30T00:09:59Z",
             "open_issues": 16,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 726,
+            "stars": 734,
             "topics": [
               "4d",
               "5d",
@@ -198,7 +198,7 @@
                 "open_issues": 95,
                 "owner": "yeesian",
                 "repo": "ArchGDAL.jl",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "gdal",
                   "geo",
@@ -391,7 +391,7 @@
                 "open_issues": 124,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1917,
+                "stars": 1918,
                 "topics": [
                   "geography",
                   "geometry",
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:18.863Z",
+    "last_updated": "2026-08-30T00:29:50.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
