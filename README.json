@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T00:09:59Z",
+            "last_commit": "2026-08-31T00:09:18Z",
             "open_issues": 16,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 734,
+            "stars": 735,
             "topics": [
               "4d",
               "5d",
@@ -151,7 +151,7 @@
                 "open_issues": 0,
                 "owner": "geoeq",
                 "repo": "geoeq",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "bearing-capacity",
                   "civil-engineering",
@@ -387,11 +387,11 @@
                 "id": 29326047,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-26T21:29:04Z",
-                "open_issues": 124,
+                "last_commit": "2026-08-30T20:42:05Z",
+                "open_issues": 125,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1918,
+                "stars": 1919,
                 "topics": [
                   "geography",
                   "geometry",
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:29:50.462Z",
+    "last_updated": "2026-08-31T00:43:02.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -503,7 +503,7 @@
       "open_issues": 0,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
-      "stars": 85,
+      "stars": 86,
       "topics": [
         "aec",
         "awesome",
