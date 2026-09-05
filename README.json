@@ -67,7 +67,7 @@
             "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Segmentation",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "ai",
               "geospatial",
@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T18:06:00Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-04T16:05:20Z",
+            "open_issues": 25,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 756,
+            "stars": 762,
             "topics": [
               "4d",
               "5d",
@@ -391,7 +391,7 @@
                 "open_issues": 130,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1923,
+                "stars": 1924,
                 "topics": [
                   "geography",
                   "geometry",
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:14:27.448Z",
+    "last_updated": "2026-09-05T00:14:04.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
