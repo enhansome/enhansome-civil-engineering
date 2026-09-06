@@ -304,7 +304,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 762 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-04 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 763 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-06 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -361,7 +361,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Python
 
-* [GeoEq](https://github.com/geoeq/geoeq) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2026-07-30 - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
+* [GeoEq](https://github.com/geoeq/geoeq) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-07-30 - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
 * [Python for Civil and Structural Engineers](https://github.com/DrSokac/Python-for-civil-and-structural-engineers) - Tutorials and examples for applying Python to civil and structural engineering problems.
 * [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
 * [SciPy](https://scipy.org/) - Scientific computing, optimization, sparse matrices, and numerical methods.
@@ -391,8 +391,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 95 | 🌐 Julia | 📅 2026-08-28 - GDAL bindings for raster and vector geospatial workflows.
-* [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 25 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 95 | 🌐 Julia | 📅 2026-09-05 - GDAL bindings for raster and vector geospatial workflows.
+* [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 24 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
 * [JuMP](https://jump.dev/JuMP.jl/stable/) - Mathematical optimization for operations research, network design, and planning problems.
@@ -422,7 +422,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,924 | 🐛 130 | 🌐 Rust | 📅 2026-09-01 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,924 | 🐛 131 | 🌐 Rust | 📅 2026-09-01 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 448 | 🐛 62 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 345 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 185 | 🐛 39 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
@@ -476,4 +476,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
