@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "krflol",
             "repo": "takeoff-field-tools-practice-plans",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "blueprint-reading",
               "concrete",
@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T00:07:45Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-07T15:42:05Z",
+            "open_issues": 8,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 769,
+            "stars": 780,
             "topics": [
               "4d",
               "5d",
@@ -387,11 +387,11 @@
                 "id": 29326047,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T23:05:27Z",
-                "open_issues": 131,
+                "last_commit": "2026-09-07T09:51:36Z",
+                "open_issues": 133,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1926,
+                "stars": 1928,
                 "topics": [
                   "geography",
                   "geometry",
@@ -466,7 +466,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-17T20:22:17Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "georust",
                 "repo": "proj",
                 "stars": 185,
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:08:17.705Z",
+    "last_updated": "2026-09-08T00:34:53.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",

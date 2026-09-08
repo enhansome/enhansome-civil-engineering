@@ -208,7 +208,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Calculations
 
-* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
+* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
 * [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Free mathematical notebook program for engineering calculations.
 * [Mathcad](https://www.mathcad.com/en) - Engineering calculation worksheet software.
 * [Blockpad](https://blockpad.net/) - Dynamic calculation documents that work like a spreadsheet.
@@ -304,7 +304,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 769 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-07 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 780 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-07 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -422,10 +422,10 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,926 | 🐛 131 | 🌐 Rust | 📅 2026-09-01 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,928 | 🐛 133 | 🌐 Rust | 📅 2026-09-07 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 448 | 🐛 62 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 345 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
-* [proj](https://github.com/georust/proj) ⭐ 185 | 🐛 39 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
+* [proj](https://github.com/georust/proj) ⭐ 185 | 🐛 40 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
 * [The Rust Book](https://doc.rust-lang.org/book/) - Official Rust learning resource.
 * [nalgebra](https://nalgebra.org/) - Linear algebra for engineering and scientific computing.
 * [polars](https://pola.rs/) - Fast DataFrame library for data processing and analysis.
@@ -476,4 +476,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
