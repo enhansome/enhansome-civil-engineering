@@ -92,16 +92,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching. 42 regional catalogues, 21 languages, 71 modules. AGPL-3.0. v3.0 - pip install openconstructionerp",
+            "description": "Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching, 293 guided cases. 55,000 priced positions, 44 languages, 195 modules. AGPL-3.0. pip install openconstructionerp",
             "homepage": "https://openconstructionerp.com",
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T21:52:37Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-10T21:43:07Z",
+            "open_issues": 1,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 789,
+            "stars": 793,
             "topics": [
               "4d",
               "5d",
@@ -388,10 +388,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T09:51:36Z",
-                "open_issues": 133,
+                "open_issues": 135,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": [
                   "geography",
                   "geometry",
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:23:51.894Z",
+    "last_updated": "2026-09-11T00:18:47.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
