@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T22:02:19Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-12T14:28:20Z",
+            "open_issues": 4,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 796,
+            "stars": 801,
             "topics": [
               "4d",
               "5d",
@@ -151,7 +151,7 @@
                 "open_issues": 0,
                 "owner": "geoeq",
                 "repo": "geoeq",
-                "stars": 74,
+                "stars": 76,
                 "topics": [
                   "bearing-capacity",
                   "civil-engineering",
@@ -391,7 +391,7 @@
                 "open_issues": 136,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1930,
+                "stars": 1931,
                 "topics": [
                   "geography",
                   "geometry",
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:26:20.981Z",
+    "last_updated": "2026-09-13T00:06:02.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
