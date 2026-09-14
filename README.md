@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2026-08-28
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2026-08-28
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -304,7 +304,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 801 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-12 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 806 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-13 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -391,8 +391,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 97 | 🌐 Julia | 📅 2026-09-06 - GDAL bindings for raster and vector geospatial workflows.
-* [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 24 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 96 | 🌐 Julia | 📅 2026-09-13 - GDAL bindings for raster and vector geospatial workflows.
+* [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 25 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
 * [JuMP](https://jump.dev/JuMP.jl/stable/) - Mathematical optimization for operations research, network design, and planning problems.
@@ -414,7 +414,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [DotSpatial](https://github.com/DotSpatial/DotSpatial) ⭐ 922 | 🐛 256 | 🌐 C# | 📅 2025-10-22 - GIS library and desktop mapping components.
 * [SharpMap](https://github.com/SharpMap/SharpMap) ⭐ 860 | 🐛 48 | 🌐 C# | 📅 2025-01-06 - Mapping library for .NET applications.
 * [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) ⭐ 462 | 🐛 20 | 🌐 C# | 📅 2024-08-12 - GeoJSON types and serialization for .NET.
-* [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) ⭐ 301 | 🐛 54 | 🌐 C# | 📅 2025-08-18 - Coordinate system and projection transformations.
+* [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) ⭐ 300 | 🐛 54 | 🌐 C# | 📅 2025-08-18 - Coordinate system and projection transformations.
 * [SharpKml](https://github.com/samcragg/sharpkml) ⭐ 167 | 🐛 7 | 🌐 C# | 📅 2024-04-18 - KML processing for geospatial data exchange.
 * [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/) - Official C# language documentation.
 * [NetTopologySuite](https://nettopologysuite.github.io/NetTopologySuite/) - Geometry and spatial operations for .NET.
@@ -422,7 +422,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,931 | 🐛 136 | 🌐 Rust | 📅 2026-09-07 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,932 | 🐛 136 | 🌐 Rust | 📅 2026-09-07 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 449 | 🐛 63 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 346 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 185 | 🐛 40 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
@@ -476,4 +476,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
