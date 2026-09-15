@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-13T09:46:43Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-14T21:00:12Z",
+            "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 806,
+            "stars": 816,
             "topics": [
               "4d",
               "5d",
@@ -126,6 +126,42 @@
             ]
           },
           "first_seen": "2026-08-28T06:12:49.766Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BidWright",
+          "description": "Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI-native construction estimating platform for intake, takeoff, pricing, scheduling, knowledge, and quotes.",
+            "homepage": "https://demo.bidwright.app",
+            "id": 1188794036,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-10T19:03:51Z",
+            "open_issues": 0,
+            "owner": "braedonsaunders",
+            "repo": "bidwright",
+            "stars": 50,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "construction",
+              "construction-estimating",
+              "construction-tech",
+              "estimating",
+              "fastify",
+              "llm",
+              "model-context-protocol",
+              "nextjs",
+              "pgvector",
+              "postgresql",
+              "quote-management",
+              "takeoff"
+            ]
+          },
+          "first_seen": "2026-09-15T00:45:42.618Z"
         }
       ],
       "title": "Project Management"
@@ -194,8 +230,8 @@
                 "id": 63650110,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T05:53:31Z",
-                "open_issues": 96,
+                "last_commit": "2026-09-14T07:23:02Z",
+                "open_issues": 95,
                 "owner": "yeesian",
                 "repo": "ArchGDAL.jl",
                 "stars": 151,
@@ -391,7 +427,7 @@
                 "open_issues": 136,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1932,
+                "stars": 1934,
                 "topics": [
                   "geography",
                   "geometry",
@@ -491,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:18:47.504Z",
+    "last_updated": "2026-09-15T00:45:42.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -499,8 +535,8 @@
       "id": 597700847,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-28T00:10:32Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-14T00:36:08Z",
+      "open_issues": 0,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
       "stars": 89,
@@ -525,7 +561,7 @@
         "structural-engineering"
       ]
     },
-    "original_repository_sha": "4868e8ad8da0736d05ea69d16256a84bf7461c31",
+    "original_repository_sha": "5b0cf573afe718441b73fe6fb59d6288dbb87eed",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"

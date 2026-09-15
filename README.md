@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2026-08-28
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2026-09-14
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -304,7 +304,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 806 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-13 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 816 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-14 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 50 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -391,7 +392,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 96 | 🌐 Julia | 📅 2026-09-13 - GDAL bindings for raster and vector geospatial workflows.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 95 | 🌐 Julia | 📅 2026-09-14 - GDAL bindings for raster and vector geospatial workflows.
 * [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 70 | 🐛 25 | 🌐 Julia | 📅 2026-08-13 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
@@ -422,7 +423,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,932 | 🐛 136 | 🌐 Rust | 📅 2026-09-07 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,934 | 🐛 136 | 🌐 Rust | 📅 2026-09-07 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 449 | 🐛 63 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 346 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 185 | 🐛 40 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
@@ -476,4 +477,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
