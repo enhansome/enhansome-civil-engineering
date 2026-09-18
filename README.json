@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T20:21:53Z",
+            "last_commit": "2026-09-17T15:50:12Z",
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 822,
+            "stars": 824,
             "topics": [
               "ai",
               "bim",
@@ -187,7 +187,7 @@
                 "open_issues": 0,
                 "owner": "geoeq",
                 "repo": "geoeq",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "bearing-capacity",
                   "civil-engineering",
@@ -259,11 +259,11 @@
                 "id": 318498541,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-16T03:25:20Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-17T09:13:09Z",
+                "open_issues": 28,
                 "owner": "evetion",
                 "repo": "GeoDataFrames.jl",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "archgdal",
                   "dataframe",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:44:45.427Z",
+    "last_updated": "2026-09-18T00:34:43.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -539,7 +539,7 @@
       "open_issues": 0,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
-      "stars": 90,
+      "stars": 91,
       "topics": [
         "aec",
         "awesome",
