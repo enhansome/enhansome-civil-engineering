@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2026-09-14
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2026-09-14
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -283,7 +283,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## GIS
 
-* [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-09-08 - QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.
+* [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-09-18 - QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.
 * [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - GIS software by Esri.
 * [QGIS](https://qgis.org/) - Open-source GIS software.
 * [SAGA](https://saga-gis.sourceforge.io/) - GIS for editing and analyzing spatial data.
@@ -304,8 +304,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 824 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-17 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
-* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 51 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 826 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-18 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -423,7 +423,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,936 | 🐛 137 | 🌐 Rust | 📅 2026-09-07 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,938 | 🐛 137 | 🌐 Rust | 📅 2026-09-07 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 450 | 🐛 63 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 347 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 186 | 🐛 40 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
@@ -477,4 +477,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

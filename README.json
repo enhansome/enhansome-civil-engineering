@@ -63,7 +63,7 @@
             "id": 1138307131,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-08T22:29:49Z",
+            "last_commit": "2026-09-18T16:38:44Z",
             "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Segmentation",
@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T15:50:12Z",
+            "last_commit": "2026-09-18T21:02:46Z",
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 824,
+            "stars": 826,
             "topics": [
               "ai",
               "bim",
@@ -143,7 +143,7 @@
             "open_issues": 0,
             "owner": "braedonsaunders",
             "repo": "bidwright",
-            "stars": 51,
+            "stars": 53,
             "topics": [
               "ai",
               "ai-agents",
@@ -427,7 +427,7 @@
                 "open_issues": 137,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1936,
+                "stars": 1938,
                 "topics": [
                   "geography",
                   "geometry",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:34:43.296Z",
+    "last_updated": "2026-09-19T00:28:06.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -539,7 +539,7 @@
       "open_issues": 0,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
-      "stars": 91,
+      "stars": 92,
       "topics": [
         "aec",
         "awesome",
