@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T21:02:46Z",
+            "last_commit": "2026-09-19T08:03:10Z",
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 826,
+            "stars": 831,
             "topics": [
               "ai",
               "bim",
@@ -423,8 +423,8 @@
                 "id": 29326047,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T09:51:36Z",
-                "open_issues": 137,
+                "last_commit": "2026-09-19T15:24:02Z",
+                "open_issues": 134,
                 "owner": "georust",
                 "repo": "geo",
                 "stars": 1938,
@@ -454,7 +454,7 @@
                 "open_issues": 63,
                 "owner": "georust",
                 "repo": "gdal",
-                "stars": 450,
+                "stars": 452,
                 "topics": [
                   "gdal",
                   "geospatial",
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:28:06.488Z",
+    "last_updated": "2026-09-20T00:12:48.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -536,7 +536,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-09-14T00:36:08Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
       "stars": 92,

@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2026-09-14
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2026-09-14
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -304,7 +304,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 826 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-18 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 831 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-19 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
@@ -423,8 +423,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,938 | 🐛 137 | 🌐 Rust | 📅 2026-09-07 - Geospatial primitives, algorithms, and geometry operations.
-* [gdal](https://github.com/georust/gdal) ⭐ 450 | 🐛 63 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
+* [geo](https://github.com/georust/geo) ⭐ 1,938 | 🐛 134 | 🌐 Rust | 📅 2026-09-19 - Geospatial primitives, algorithms, and geometry operations.
+* [gdal](https://github.com/georust/gdal) ⭐ 452 | 🐛 63 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 347 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 186 | 🐛 40 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
 * [The Rust Book](https://doc.rust-lang.org/book/) - Official Rust learning resource.
@@ -477,4 +477,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
