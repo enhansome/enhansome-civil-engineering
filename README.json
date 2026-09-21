@@ -101,7 +101,7 @@
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 831,
+            "stars": 835,
             "topics": [
               "ai",
               "bim",
@@ -143,7 +143,7 @@
             "open_issues": 0,
             "owner": "braedonsaunders",
             "repo": "bidwright",
-            "stars": 53,
+            "stars": 55,
             "topics": [
               "ai",
               "ai-agents",
@@ -162,6 +162,44 @@
             ]
           },
           "first_seen": "2026-09-15T00:45:42.618Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BeaconHS",
+          "description": "Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source HSE platform for industrial construction. Incidents, inspections, training, equipment, permits, and a form engine — part of a books + safety + estimating suite.",
+            "homepage": null,
+            "id": 1242815792,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-18T05:17:45Z",
+            "open_issues": 2,
+            "owner": "braedonsaunders",
+            "repo": "beaconhs",
+            "stars": 5,
+            "topics": [
+              "better-auth",
+              "bullmq",
+              "drizzle",
+              "drizzle-orm",
+              "form-builder",
+              "health-and-safety",
+              "monorepo",
+              "multitenant",
+              "nextjs",
+              "pnpm",
+              "postgresql",
+              "react",
+              "row-level-security",
+              "saas",
+              "turborepo",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-21T00:22:29.808Z"
         }
       ],
       "title": "Project Management"
@@ -427,7 +465,7 @@
                 "open_issues": 134,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1938,
+                "stars": 1940,
                 "topics": [
                   "geography",
                   "geometry",
@@ -527,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:12:48.910Z",
+    "last_updated": "2026-09-21T00:22:29.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -535,11 +573,11 @@
       "id": 597700847,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-14T00:36:08Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-20T05:36:41Z",
+      "open_issues": 0,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
-      "stars": 92,
+      "stars": 94,
       "topics": [
         "aec",
         "awesome",
@@ -561,7 +599,7 @@
         "structural-engineering"
       ]
     },
-    "original_repository_sha": "5b0cf573afe718441b73fe6fb59d6288dbb87eed",
+    "original_repository_sha": "61d31d3a8d8224c5ff8c68174cf24f2c1c4364bb",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"
