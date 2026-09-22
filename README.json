@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-19T08:03:10Z",
+            "last_commit": "2026-09-22T00:46:28Z",
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 835,
+            "stars": 838,
             "topics": [
               "ai",
               "bim",
@@ -143,7 +143,7 @@
             "open_issues": 0,
             "owner": "braedonsaunders",
             "repo": "bidwright",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "ai",
               "ai-agents",
@@ -175,8 +175,8 @@
             "id": 1242815792,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T05:17:45Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-21T13:38:42Z",
+            "open_issues": 8,
             "owner": "braedonsaunders",
             "repo": "beaconhs",
             "stars": 5,
@@ -343,7 +343,7 @@
                 "open_issues": 256,
                 "owner": "DotSpatial",
                 "repo": "DotSpatial",
-                "stars": 920,
+                "stars": 921,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
@@ -462,7 +462,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-19T15:24:02Z",
-                "open_issues": 134,
+                "open_issues": 133,
                 "owner": "georust",
                 "repo": "geo",
                 "stars": 1940,
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:22:29.808Z",
+    "last_updated": "2026-09-22T00:58:42.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
