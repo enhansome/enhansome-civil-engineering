@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T00:43:59Z",
+            "last_commit": "2026-09-23T21:00:54Z",
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 841,
+            "stars": 843,
             "topics": [
               "ai",
               "bim",
@@ -143,7 +143,7 @@
             "open_issues": 0,
             "owner": "braedonsaunders",
             "repo": "bidwright",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "ai",
               "ai-agents",
@@ -343,7 +343,7 @@
                 "open_issues": 256,
                 "owner": "DotSpatial",
                 "repo": "DotSpatial",
-                "stars": 921,
+                "stars": 920,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
@@ -461,7 +461,7 @@
                 "id": 29326047,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T15:24:02Z",
+                "last_commit": "2026-09-23T12:35:58Z",
                 "open_issues": 133,
                 "owner": "georust",
                 "repo": "geo",
@@ -492,7 +492,7 @@
                 "open_issues": 63,
                 "owner": "georust",
                 "repo": "gdal",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "gdal",
                   "geospatial",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:48:10.221Z",
+    "last_updated": "2026-09-24T00:40:05.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
