@@ -15,7 +15,7 @@
             "id": 1315735815,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-27T22:56:35Z",
+            "last_commit": "2026-09-25T21:43:52Z",
             "open_issues": 0,
             "owner": "krflol",
             "repo": "takeoff-field-tools-practice-plans",
@@ -97,11 +97,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T15:03:43Z",
+            "last_commit": "2026-09-25T22:13:54Z",
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 844,
+            "stars": 847,
             "topics": [
               "ai",
               "bim",
@@ -465,7 +465,7 @@
                 "open_issues": 133,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1940,
+                "stars": 1941,
                 "topics": [
                   "geography",
                   "geometry",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:39:17.319Z",
+    "last_updated": "2026-09-26T00:44:51.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
