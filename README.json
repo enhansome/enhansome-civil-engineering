@@ -58,7 +58,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Segment anything on your raster data using AI in QGIS",
+            "description": "Segment Anything in QGIS: click an object to get its outline, or name what you want (buildings, solar panels, trees) and get every match as vector polygons. QGIS plugin by TerraLab, free tier, no GPU needed.",
             "homepage": "https://terra-lab.ai/ai-segmentation",
             "id": 1138307131,
             "language": "Python",
@@ -70,11 +70,22 @@
             "stars": 41,
             "topics": [
               "ai",
+              "building-footprint",
+              "computer-vision",
+              "geoai",
               "geospatial",
+              "gis",
+              "object-detection",
+              "python",
               "qgis",
               "qgis-plugin",
               "raster",
-              "segmentation"
+              "remote-sensing",
+              "sam",
+              "segment-anything",
+              "segmentation",
+              "terralab",
+              "vectorization"
             ]
           },
           "first_seen": "2026-08-28T06:12:49.766Z"
@@ -97,11 +108,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T00:13:38Z",
+            "last_commit": "2026-09-27T23:56:41Z",
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 849,
+            "stars": 855,
             "topics": [
               "ai",
               "bim",
@@ -465,7 +476,7 @@
                 "open_issues": 133,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1941,
+                "stars": 1942,
                 "topics": [
                   "geography",
                   "geometry",
@@ -565,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:44:57.598Z",
+    "last_updated": "2026-09-28T00:59:35.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
