@@ -63,7 +63,7 @@
             "id": 1138307131,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T21:45:54Z",
+            "last_commit": "2026-09-28T16:26:13Z",
             "open_issues": 0,
             "owner": "TerraLabAI",
             "repo": "QGIS_AI-Segmentation",
@@ -108,11 +108,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T23:56:41Z",
+            "last_commit": "2026-09-29T02:08:15Z",
             "open_issues": 2,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 855,
+            "stars": 862,
             "topics": [
               "ai",
               "bim",
@@ -186,8 +186,8 @@
             "id": 1242815792,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T13:38:42Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-29T00:52:38Z",
+            "open_issues": 9,
             "owner": "braedonsaunders",
             "repo": "beaconhs",
             "stars": 5,
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:59:35.997Z",
+    "last_updated": "2026-09-29T02:08:16.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",

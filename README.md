@@ -283,7 +283,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## GIS
 
-* [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-09-24 - QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.
+* [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.
 * [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - GIS software by Esri.
 * [QGIS](https://qgis.org/) - Open-source GIS software.
 * [SAGA](https://saga-gis.sourceforge.io/) - GIS for editing and analyzing spatial data.
@@ -304,9 +304,9 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 855 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-27 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 862 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-29 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 57 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
-* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-21 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
+* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 5 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-29 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -478,4 +478,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
