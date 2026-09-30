@@ -108,11 +108,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T02:08:15Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-30T01:19:35Z",
+            "open_issues": 4,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 862,
+            "stars": 870,
             "topics": [
               "ai",
               "bim",
@@ -186,8 +186,8 @@
             "id": 1242815792,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T00:52:38Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-30T00:21:13Z",
+            "open_issues": 8,
             "owner": "braedonsaunders",
             "repo": "beaconhs",
             "stars": 5,
@@ -503,7 +503,7 @@
                 "open_issues": 63,
                 "owner": "georust",
                 "repo": "gdal",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "gdal",
                   "geospatial",
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:08:16.082Z",
+    "last_updated": "2026-09-30T01:23:29.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
