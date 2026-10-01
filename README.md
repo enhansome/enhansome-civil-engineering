@@ -208,7 +208,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Calculations
 
-* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-25 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
+* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-30 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
 * [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Free mathematical notebook program for engineering calculations.
 * [Mathcad](https://www.mathcad.com/en) - Engineering calculation worksheet software.
 * [Blockpad](https://blockpad.net/) - Dynamic calculation documents that work like a spreadsheet.
@@ -304,7 +304,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 870 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-30 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 878 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-30 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 57 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
 * [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-30 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
@@ -393,7 +393,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 95 | 🌐 Julia | 📅 2026-09-14 - GDAL bindings for raster and vector geospatial workflows.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 99 | 🌐 Julia | 📅 2026-09-14 - GDAL bindings for raster and vector geospatial workflows.
 * [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 71 | 🐛 28 | 🌐 Julia | 📅 2026-09-17 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
@@ -413,7 +413,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### C# and .NET
 
-* [DotSpatial](https://github.com/DotSpatial/DotSpatial) ⭐ 920 | 🐛 256 | 🌐 C# | 📅 2025-10-22 - GIS library and desktop mapping components.
+* [DotSpatial](https://github.com/DotSpatial/DotSpatial) ⭐ 919 | 🐛 256 | 🌐 C# | 📅 2025-10-22 - GIS library and desktop mapping components.
 * [SharpMap](https://github.com/SharpMap/SharpMap) ⭐ 859 | 🐛 48 | 🌐 C# | 📅 2025-01-06 - Mapping library for .NET applications.
 * [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) ⭐ 462 | 🐛 20 | 🌐 C# | 📅 2024-08-12 - GeoJSON types and serialization for .NET.
 * [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) ⭐ 300 | 🐛 54 | 🌐 C# | 📅 2025-08-18 - Coordinate system and projection transformations.
@@ -424,7 +424,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,942 | 🐛 133 | 🌐 Rust | 📅 2026-09-23 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,943 | 🐛 133 | 🌐 Rust | 📅 2026-09-30 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 454 | 🐛 63 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
 * [geojson](https://github.com/georust/geojson) ⭐ 347 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 186 | 🐛 40 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
@@ -478,4 +478,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
