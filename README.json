@@ -5,6 +5,54 @@
       "items": [
         {
           "node_type": "item",
+          "title": "House Planner",
+          "description": "Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. By the team behind homedesignsai.pro",
+            "homepage": "https://app.homedesignsai.pro",
+            "id": 1399644864,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-01T09:56:34Z",
+            "open_issues": 0,
+            "owner": "egmalt",
+            "repo": "house-planner",
+            "stars": 15,
+            "topics": [
+              "3d",
+              "architecture",
+              "bill-of-materials",
+              "cad",
+              "construction",
+              "electrical-design",
+              "floor-plan",
+              "floorplan-editor",
+              "home-design",
+              "house-planner",
+              "konva",
+              "maplibre",
+              "php",
+              "plumbing",
+              "react",
+              "react-three-fiber",
+              "self-hosted",
+              "threejs",
+              "typescript",
+              "underfloor-heating"
+            ]
+          },
+          "first_seen": "2026-10-02T01:44:46.726Z"
+        }
+      ],
+      "title": "Digital Twins, BIM, and Construction Tech"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Construction Takeoff Practice Plans",
           "description": "Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.",
           "children": [],
@@ -108,11 +156,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T23:21:19Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-02T01:10:19Z",
+            "open_issues": 6,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 878,
+            "stars": 886,
             "topics": [
               "ai",
               "bim",
@@ -150,11 +198,11 @@
             "id": 1188794036,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T19:03:51Z",
+            "last_commit": "2026-10-02T01:30:19Z",
             "open_issues": 0,
             "owner": "braedonsaunders",
             "repo": "bidwright",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "ai",
               "ai-agents",
@@ -186,7 +234,7 @@
             "id": 1242815792,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T15:17:15Z",
+            "last_commit": "2026-10-01T23:32:54Z",
             "open_issues": 8,
             "owner": "braedonsaunders",
             "repo": "beaconhs",
@@ -576,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:23:33.413Z",
+    "last_updated": "2026-10-02T01:44:46.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -584,11 +632,11 @@
       "id": 597700847,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-20T05:36:41Z",
+      "last_commit": "2026-10-01T14:36:55Z",
       "open_issues": 0,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
-      "stars": 94,
+      "stars": 95,
       "topics": [
         "aec",
         "awesome",
@@ -610,7 +658,7 @@
         "structural-engineering"
       ]
     },
-    "original_repository_sha": "61d31d3a8d8224c5ff8c68174cf24f2c1c4364bb",
+    "original_repository_sha": "d13724d2cb963370c9691a82925437a5ffeccae1",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"

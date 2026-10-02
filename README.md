@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2026-09-20
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2026-10-01
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -177,6 +177,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Digital Twins, BIM, and Construction Tech
 
+* [House Planner](https://github.com/egmalt/house-planner) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
 * [Bentley iTwin Platform](https://www.bentley.com/software/itwin-platform/) - Infrastructure digital twin platform for engineering data, visualization, analytics, and operations.
 * [Autodesk Forma](https://www.autodesk.com/products/forma/overview) - Cloud-based early-stage planning and design analysis for AEC.
 * [Autodesk Tandem](https://intandem.autodesk.com/) - Digital twin platform for facility handover and operations.
@@ -304,9 +305,9 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 878 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-30 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
-* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 57 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
-* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-30 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 886 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-02 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 58 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
+* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-01 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -478,4 +479,4 @@ h2 {
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
