@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering) ⭐ 96 | 🐛 1 | 🌐 Python | 📅 2026-10-01
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering)
 
 Software, libraries, calculators, and resources used in civil engineering practice.
 
@@ -177,7 +177,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Digital Twins, BIM, and Construction Tech
 
-* [House Planner](https://github.com/egmalt/house-planner) ⭐ 66 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
+* [House Planner](https://github.com/egmalt/house-planner) ⭐ 67 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
 * [Bentley iTwin Platform](https://www.bentley.com/software/itwin-platform/) - Infrastructure digital twin platform for engineering data, visualization, analytics, and operations.
 * [Autodesk Forma](https://www.autodesk.com/products/forma/overview) - Cloud-based early-stage planning and design analysis for AEC.
 * [Autodesk Tandem](https://intandem.autodesk.com/) - Digital twin platform for facility handover and operations.
