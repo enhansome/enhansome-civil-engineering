@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "egmalt",
             "repo": "house-planner",
-            "stars": 67,
+            "stars": 93,
             "topics": [
               "3d",
               "architecture",
@@ -160,7 +160,7 @@
             "open_issues": 9,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 893,
+            "stars": 895,
             "topics": [
               "ai",
               "bim",
@@ -577,7 +577,7 @@
                 "open_issues": 22,
                 "owner": "georust",
                 "repo": "geojson",
-                "stars": 347,
+                "stars": 348,
                 "topics": [
                   "geojson",
                   "geospatial",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:41.723Z",
+    "last_updated": "2026-10-04T01:45:51.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -633,7 +633,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-10-01T14:36:55Z",
-      "open_issues": 1,
+      "open_issues": 3,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
       "stars": 96,
