@@ -5,6 +5,54 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Canal Design",
+          "description": "Android app for designing smooth lined concrete canals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An android app for design of hydraulic structures.",
+            "homepage": null,
+            "id": 495742192,
+            "language": null,
+            "license": null,
+            "last_commit": "2022-05-24T09:32:46Z",
+            "open_issues": 0,
+            "owner": "QuantumNovice",
+            "repo": "Canal-Design",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T01:05:56.894Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Design Unlined Canal",
+          "description": "Unlined canal design using Kennedy's silt theory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 494681863,
+            "language": null,
+            "license": "GPL-3.0",
+            "last_commit": "2022-05-21T04:46:55Z",
+            "open_issues": 0,
+            "owner": "QuantumNovice",
+            "repo": "Design-Unlined-Canal",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T01:05:56.894Z"
+        }
+      ],
+      "title": "Water Resources and Drainage"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "House Planner",
           "description": "Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.",
           "children": [],
@@ -16,10 +64,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-01T09:56:34Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "egmalt",
             "repo": "house-planner",
-            "stars": 93,
+            "stars": 103,
             "topics": [
               "3d",
               "architecture",
@@ -44,6 +92,27 @@
             ]
           },
           "first_seen": "2026-10-02T01:44:46.726Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome IFC Tools",
+          "description": "Curated list of open-source tools and libraries for IFC workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1098179806,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-05-03T06:28:12Z",
+            "open_issues": 0,
+            "owner": "QuantumNovice",
+            "repo": "Awesome-IFC-tools",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T01:05:56.894Z"
         }
       ],
       "title": "Digital Twins, BIM, and Construction Tech"
@@ -95,6 +164,33 @@
         }
       ],
       "title": "Calculations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fint-Revit",
+          "description": "Desktop utility that detects installed Revit versions and manages their add-ins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fint-Revit is a powerful utility designed to facilitate the management of Autodesk Revit add-ins by identifying installed Revit versions and organizing related add-ins efficiently. ",
+            "homepage": null,
+            "id": 829217972,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2024-07-16T02:22:28Z",
+            "open_issues": 0,
+            "owner": "QuantumNovice",
+            "repo": "fint-revit",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T01:05:56.894Z"
+        }
+      ],
+      "title": "3D Modelling"
     },
     {
       "description": null,
@@ -156,11 +252,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T12:09:46Z",
+            "last_commit": "2026-10-04T23:50:54Z",
             "open_issues": 9,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 895,
+            "stars": 897,
             "topics": [
               "ai",
               "bim",
@@ -202,7 +298,7 @@
             "open_issues": 0,
             "owner": "braedonsaunders",
             "repo": "bidwright",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "ai",
               "ai-agents",
@@ -238,7 +334,7 @@
             "open_issues": 8,
             "owner": "braedonsaunders",
             "repo": "beaconhs",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "better-auth",
               "bullmq",
@@ -307,6 +403,27 @@
                 ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ModifiedCamClay",
+              "description": "Modified Cam Clay constitutive model for drained and undrained triaxial loading.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 485954578,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2022-05-24T08:02:43Z",
+                "open_issues": 0,
+                "owner": "QuantumNovice",
+                "repo": "ModifiedCamClay",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-05T01:05:56.894Z"
             }
           ],
           "description": null,
@@ -538,7 +655,7 @@
             {
               "node_type": "item",
               "title": "gdal",
-              "description": "GDAL bindings for geospatial raster and vector data.",
+              "description": "Rust bindings for the GDAL geospatial raster and vector library.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -548,7 +665,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-07-06T04:43:22Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "georust",
                 "repo": "gdal",
                 "stars": 454,
@@ -577,7 +694,7 @@
                 "open_issues": 22,
                 "owner": "georust",
                 "repo": "geojson",
-                "stars": 348,
+                "stars": 347,
                 "topics": [
                   "geojson",
                   "geospatial",
@@ -624,16 +741,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T01:45:51.839Z",
+    "last_updated": "2026-10-05T01:05:56.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
       "homepage": null,
       "id": 597700847,
       "language": "Python",
-      "license": null,
-      "last_commit": "2026-10-01T14:36:55Z",
-      "open_issues": 3,
+      "license": "CC0-1.0",
+      "last_commit": "2026-10-04T02:33:34Z",
+      "open_issues": 1,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
       "stars": 96,
@@ -658,7 +775,7 @@
         "structural-engineering"
       ]
     },
-    "original_repository_sha": "d13724d2cb963370c9691a82925437a5ffeccae1",
+    "original_repository_sha": "81baa59f1a136c012f33dbd7044155e169855b80",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"

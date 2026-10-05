@@ -2,14 +2,9 @@
 
 # Awesome Civil Engineering with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> Engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including roads, bridges, buildings, dams, tunnels, pipelines, water supply, and sewerage systems.
 
-[List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering)
-
-Software, libraries, calculators, and resources used in civil engineering practice.
-
-## Content
+## Contents
 
 * [Reporting and Documentation](#reporting-and-documentation)
 * [Water Resources and Drainage](#water-resources-and-drainage)
@@ -43,14 +38,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [Microsoft Word](https://www.microsoft.com/microsoft-365/word) - Word processing and report production.
 * [LaTeX](https://www.latex-project.org/) - Typesetting system widely used for technical reports, standards, and academic papers.
 * [Foxit PDF Editor](https://www.foxit.com/pdf-editor/) - PDF editing software formerly associated with PhantomPDF.
-* [Autodesk Revit](https://www.autodesk.com/products/revit/overview) - BIM authoring for buildings and multidisciplinary coordination.
 * [Bluebeam Revu](https://www.bluebeam.com/revu/) - PDF markup, review, and construction document collaboration.
-* [Procore](https://www.procore.com/) - Construction project management, drawings, RFIs, submittals, and field workflows.
-* [PlanGrid](https://construction.autodesk.com/products/autodesk-build/) - Autodesk field collaboration workflow now part of Autodesk Build.
 * [Newforma Project Center](https://www.newforma.com/project-information-management/) - Project information management for AEC teams.
-* [Microsoft Project](https://www.microsoft.com/microsoft-365/project/project-management-software) - Project scheduling and portfolio management.
-* [Asana](https://asana.com/) - Team work management and task tracking.
-* [Trello](https://trello.com/) - Kanban-style task tracking by Atlassian.
 * [Autodesk BIM 360](https://www.autodesk.com/bim-360/) - Legacy Autodesk construction management platform, now within Autodesk Construction Cloud.
 * [CoConstruct](https://www.buildertrend.com/coconstruct/) - Residential construction management product now part of Buildertrend.
 * [Autodesk Construction Cloud](https://construction.autodesk.com/) - Cloud platform for design collaboration, model coordination, build workflows, and operations handover.
@@ -59,6 +48,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Water Resources and Drainage
 
+* [Canal Design](https://github.com/QuantumNovice/Canal-Design) ⭐ 0 | 🐛 0 | 📅 2022-05-24 - Android app for designing smooth lined concrete canals.
+* [Design Unlined Canal](https://github.com/QuantumNovice/Design-Unlined-Canal) ⭐ 0 | 🐛 0 | 📅 2022-05-21 - Unlined canal design using Kennedy's silt theory.
 * [EPA SWMM](https://www.epa.gov/water-research/storm-water-management-model-swmm) - Urban drainage modeling software developed by the Environmental Protection Agency.
 * [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/) - River hydraulic modeling software developed by the US Army Corps of Engineers.
 * [WaterGEMS](https://www.bentley.com/software/openflows-watergems/) - Hydraulic and water quality modeling software for water distribution systems.
@@ -99,19 +90,14 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [IDEA StatiCa](https://www.ideastatica.com/) - Steel, concrete, and connection design and code checking.
 * [StruSoft FEM-Design](https://strusoft.com/software/fem-design/) - 3D finite element structural analysis and design.
 * [CalculiX](https://www.calculix.de/) - Free finite element package for linear and nonlinear structural, dynamic, and thermal analysis with Abaqus-compatible input.
+* [ACI One-Way Beam Design](https://github.com/QuantumNovice/ACI-One-Way-Beam_Design) ⭐ 1 | 🐛 0 | 📅 2022-10-10 - Windows tool for designing reinforced concrete one-way beams to ACI provisions.
 
 ## Structural Simulation Software
 
 * [Ansys](https://www.ansys.com/) - Multiphysics simulation software.
 * [Abaqus](https://www.3ds.com/products/simulia/abaqus) - Finite element analysis software.
-* [Autodesk Robot Structural Analysis Professional](https://www.autodesk.com/products/robot-structural-analysis/overview) - Structural analysis and simulation software.
 * [LS-DYNA](https://www.ansys.com/products/structures/ansys-ls-dyna) - Dynamic and nonlinear simulation software.
-* [ETABS](https://www.csiamerica.com/products/etabs) - Building analysis and design software.
-* [SAP2000](https://www.csiamerica.com/products/sap2000) - Structural analysis and design software.
 * [midas](https://www.midasoft.com/) - Structural analysis and design software.
-* [SCIA Engineer](https://www.scia.net/en/products/scia-engineer) - Structural analysis software for design and engineering of many structure types.
-* [PROKON](https://www.prokon.com/) - Structural analysis and design software.
-* [RAM Structural System](https://www.bentley.com/software/ram-structural-system/) - Building analysis and design software.
 * [ArchCalc](http://www.archcalc.com/) - Online structural analysis calculator for architects, engineers, and construction professionals.
 * [OpenSees](https://opensees.berkeley.edu/) - Open-source framework for nonlinear structural and geotechnical simulation.
 * [Code\_Aster](https://code-aster.org/) - Open-source finite element solver for structural mechanics, nonlinear analysis, thermomechanics, and coupled problems.
@@ -135,6 +121,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [RS2](https://www.rocscience.com/software/rs2) - 2D finite element analysis for excavation, slope, and support systems.
 * [RS3](https://www.rocscience.com/software/rs3) - 3D finite element analysis for geotechnical engineering.
 * [OpenGeoSys](https://www.opengeosys.org/stable/) - Open-source multiphysics simulator for thermo-hydro-mechanical-chemical processes in porous and fractured media.
+* [Original Cam Clay Yield Surface](https://quantumnovice.github.io/Original-Cam-Clay-Yield-Surface/) - Interactive browser visualization of the Original Cam Clay yield surface.
 
 ## Transportation Engineering
 
@@ -162,12 +149,9 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Environmental Engineering
 
-* [Wastewater Collection System Modeling Software](https://www.autodesk.com/products/infoworks-icm/overview) - Collection system modeling, now commonly covered by Autodesk InfoWorks ICM.
 * [StormCAD](https://www.bentley.com/software/openflows-stormcad/) - Design and analysis of stormwater conveyance systems.
-* [PCSWMM](https://www.pcswmm.com/) - Urban runoff, combined sewer overflow, and sanitary sewer modeling.
 * [Enviro.Space Air Dispersion Modeling Software](https://www.enviro.space/products/air-dispersion-modeling-software) - Air pollutant dispersion modeling.
 * [AQUATOX](https://www.epa.gov/water-research/aquatox) - EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems.
-* [SWMM5](https://www.epa.gov/water-research/storm-water-management-model-swmm) - Stormwater management model.
 * [SRH-2D](https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html) - Two-dimensional Sedimentation and River Hydraulics solver.
 * [AERMOD](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models) - EPA-preferred steady-state plume model for air dispersion.
 * [OpenLCA](https://www.openlca.org/) - Open-source life cycle assessment software.
@@ -177,7 +161,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Digital Twins, BIM, and Construction Tech
 
-* [House Planner](https://github.com/egmalt/house-planner) ⭐ 93 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
+* [House Planner](https://github.com/egmalt/house-planner) ⭐ 103 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
+* [Awesome IFC Tools](https://github.com/QuantumNovice/Awesome-IFC-tools) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-05-03 - Curated list of open-source tools and libraries for IFC workflows.
 * [Bentley iTwin Platform](https://www.bentley.com/software/itwin-platform/) - Infrastructure digital twin platform for engineering data, visualization, analytics, and operations.
 * [Autodesk Forma](https://www.autodesk.com/products/forma/overview) - Cloud-based early-stage planning and design analysis for AEC.
 * [Autodesk Tandem](https://intandem.autodesk.com/) - Digital twin platform for facility handover and operations.
@@ -193,6 +178,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [Buildots](https://buildots.com/) - AI-based construction progress tracking using site imagery and BIM.
 * [DroneDeploy](https://www.dronedeploy.com/) - Reality capture, drone mapping, and site documentation.
 * [buildingSMART Data Dictionary](https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/) - Free service for shared built-environment terms, classifications, properties, and machine-readable BIM definitions.
+* [BIM Guard](https://bim-guard.xyz/) - Open-source BIM compliance application: upload IFC models, check them against buildingSMART IDS rules and ISO 19650 naming, and generate reports with BCF issues.
 
 ## Reality Capture and Surveying
 
@@ -227,11 +213,11 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Web Calculators
 
+* [ComplyOnSite](https://complyonsite.com/tools) - Free browser tools for UK construction site teams, including HAVS and noise exposure calculators, a RAMS builder, waste notes, and EWC code lookup; no account required.
 * [UnitConv](https://unitconv.online/) - Free browser-based converter for engineering units across length, area, volume, mass, pressure, energy, power, temperature, and related quantities; no login required.
 
 ### Structure Analysis
 
-* [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - Cloud-based structural analysis software.
 * [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams.
 * [Xarpis 2D Frame & Beam FEA](https://www.xarpis.com/calculators/frame-fea-2d) - Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes.
 
@@ -250,23 +236,16 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 * [AutoCAD](https://www.autodesk.com/products/autocad/overview) - CAD software.
 * [MicroStation](https://www.bentley.com/software/microstation/) - CAD software for architecture, engineering, and construction.
-* [Revit](https://www.autodesk.com/products/revit/overview) - BIM software.
 * [BricsCAD](https://www.bricsys.com/bricscad/) - CAD software for AEC.
-* [SketchUp](https://www.sketchup.com/) - 3D modeling software.
-* [Civil 3D](https://www.autodesk.com/products/civil-3d/overview) - Civil engineering design and documentation software.
-* [InfraWorks](https://www.autodesk.com/products/infraworks/overview) - Infrastructure design and engineering software.
 * [AutoCAD Architecture](https://www.autodesk.com/products/autocad/included-toolsets/autocad-architecture) - CAD software for architectural design.
-* [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
-* [AutoCAD Map 3D](https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d) - GIS and mapping software.
 * [nanoCAD](https://nanocad.com/) - CAD platform.
-* [OpenRoads Designer](https://www.bentley.com/software/openroads-designer/) - Civil roadway design software.
 * [OpenRail Designer](https://www.bentley.com/software/openrail-designer/) - Rail design software.
 * [OpenBuildings Designer](https://www.bentley.com/software/openbuildings-designer/) - BIM software for building design and documentation.
 * [QCAD](https://www.qcad.org/en/) - Open-source 2D CAD application for technical drawings, plans, details, schematics, and DXF/DWG workflows.
 
 ## 3D Modelling
 
-* [AutoCAD](https://www.autodesk.com/products/autocad/overview) - CAD software.
+* [Fint-Revit](https://github.com/QuantumNovice/fint-revit) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-07-16 - Desktop utility that detects installed Revit versions and manages their add-ins.
 * [Revit](https://www.autodesk.com/products/revit/overview) - BIM software.
 * [3ds Max](https://www.autodesk.com/products/3ds-max/overview) - 3D modeling, animation, and rendering software.
 * [SketchUp](https://www.sketchup.com/) - 3D modeling software.
@@ -275,9 +254,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [Civil 3D](https://www.autodesk.com/products/civil-3d/overview) - Civil engineering design and documentation software.
 * [InfraWorks](https://www.autodesk.com/products/infraworks/overview) - Infrastructure design and engineering software.
 * [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
-* [AutoCAD Map 3D](https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d) - GIS and mapping software.
 * [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D modeler for drafting, modeling, and engineering workflows.
-* [BricsCAD](https://www.bricsys.com/bricscad/) - CAD and BIM platform.
 * [Rhino.Inside.Revit](https://www.rhino3d.com/inside/revit/) - Rhino and Grasshopper inside Revit.
 * [Grasshopper](https://www.grasshopper3d.com/) - Visual programming environment for Rhino.
 * [OpenSCAD](https://openscad.org/about.html) - Open-source script-based solid 3D CAD modeler for precise, reproducible, and parameterized geometry.
@@ -305,9 +282,9 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 895 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-02 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
-* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 59 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
-* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-02 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 897 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-04 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 60 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
+* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 6 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-02 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -322,9 +299,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [Podio](https://www.podio.com/) - Work management and collaboration platform.
 * [Autodesk Build](https://construction.autodesk.com/products/autodesk-build/) - Construction management platform within Autodesk Construction Cloud.
 * [Buildertrend](https://www.buildertrend.com/) - Residential construction management software.
-* [Bluebeam Revu](https://www.bluebeam.com/revu/) - Document management, markup, and collaboration.
 * [Fieldwire](https://www.fieldwire.com/) - Construction task, plan, punch list, and field coordination software.
-* [PlanGrid](https://construction.autodesk.com/products/autodesk-build/) - Field collaboration product now part of Autodesk Build.
 * [OpenProject BIM](https://www.openproject.org/bim-project-management/) - Open-source construction project management with scheduling, cost tracking, IFC viewing, and BCF issue workflows.
 
 ## Spreadsheet
@@ -335,9 +310,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [Apple Numbers](https://www.apple.com/numbers/) - Spreadsheet software by Apple.
 * [WPS Spreadsheets](https://www.wps.com/office/spreadsheets/) - Spreadsheet software by WPS Office.
 * [Airtable](https://www.airtable.com/) - Database-style spreadsheet and app platform.
-* [Smartsheet](https://www.smartsheet.com/) - Online work management spreadsheet platform.
 * [Zoho Sheet](https://www.zoho.com/sheet/) - Online spreadsheet software.
-* [Asana Tables](https://asana.com/) - Table views and project tracking inside Asana.
 * [Quip Spreadsheets](https://quip.com/) - Collaborative spreadsheets inside Salesforce Quip.
 * [Gnumeric](https://www.gnumeric.org/) - Open-source spreadsheet focused on responsive handling of large workbooks and accurate numerical calculations.
 
@@ -346,7 +319,6 @@ Software, libraries, calculators, and resources used in civil engineering practi
 * [TensorFlow](https://www.tensorflow.org/) - Machine learning library developed by Google.
 * [PyTorch](https://pytorch.org/) - Machine learning library.
 * [scikit-learn](https://scikit-learn.org/) - Machine learning library for Python.
-* [R](https://www.r-project.org/) - Statistical computing and data analysis.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Machine learning software for data mining and analysis.
 * [KNIME](https://www.knime.com/) - Analytics and machine learning platform.
 * [Orange](https://orangedatamining.com/) - Data mining and predictive modeling.
@@ -365,6 +337,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 ### Python
 
 * [GeoEq](https://github.com/geoeq/geoeq) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2026-07-30 - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
+* [ModifiedCamClay](https://github.com/QuantumNovice/ModifiedCamClay) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-05-24 - Modified Cam Clay constitutive model for drained and undrained triaxial loading.
 * [Python for Civil and Structural Engineers](https://github.com/DrSokac/Python-for-civil-and-structural-engineers) - Tutorials and examples for applying Python to civil and structural engineering problems.
 * [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
 * [SciPy](https://scipy.org/) - Scientific computing, optimization, sparse matrices, and numerical methods.
@@ -426,57 +399,18 @@ Software, libraries, calculators, and resources used in civil engineering practi
 ### Rust
 
 * [geo](https://github.com/georust/geo) ⭐ 1,943 | 🐛 133 | 🌐 Rust | 📅 2026-09-30 - Geospatial primitives, algorithms, and geometry operations.
-* [gdal](https://github.com/georust/gdal) ⭐ 454 | 🐛 63 | 🌐 Rust | 📅 2026-07-06 - GDAL bindings for geospatial raster and vector data.
-* [geojson](https://github.com/georust/geojson) ⭐ 348 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
+* [gdal](https://github.com/georust/gdal) ⭐ 454 | 🐛 64 | 🌐 Rust | 📅 2026-07-06 - Rust bindings for the GDAL geospatial raster and vector library.
+* [geojson](https://github.com/georust/geojson) ⭐ 347 | 🐛 22 | 🌐 Rust | 📅 2026-04-29 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 186 | 🐛 40 | 🌐 Rust | 📅 2026-06-17 - Coordinate projection bindings for Rust.
 * [The Rust Book](https://doc.rust-lang.org/book/) - Official Rust learning resource.
 * [nalgebra](https://nalgebra.org/) - Linear algebra for engineering and scientific computing.
 * [polars](https://pola.rs/) - Fast DataFrame library for data processing and analysis.
 * [geoarrow-rs](https://geoarrow.org/geoarrow-rs/) - Rust implementation of GeoArrow for efficient geospatial vector storage, interchange, and spatial processing.
 
-<style>
-:root {
-  color-scheme: light dark;
-  --bg: #0f172a;
-  --text: #e5e7eb;
-  --link: #67e8f9;
-  --link-hover: #fde047;
-  --border: #334155;
-}
+## Contributing
 
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.6;
-}
-
-a {
-  color: var(--link);
-}
-
-a:hover {
-  color: var(--link-hover);
-}
-
-li {
-  margin: 0.25rem 0;
-}
-
-h1,
-h2,
-h3 {
-  color: #ffffff;
-  line-height: 1.25;
-}
-
-h2 {
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 0.25rem;
-  margin-top: 2rem;
-}
-</style>
+Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
