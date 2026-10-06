@@ -5,6 +5,40 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ANUGA",
+          "description": "Open-source shallow-water solver for flood, tsunami, and storm-surge inundation modeling with a Python interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ANUGA: open-source hydrodynamic modelling of floods, tsunamis and storm surges (shallow water equations, finite volumes). GPU/multicore solver developed with C-DAC (India) and NCI (Australia).",
+            "homepage": "https://anuga.anu.edu.au",
+            "id": 284561556,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-06T00:14:04Z",
+            "open_issues": 19,
+            "owner": "anuga-community",
+            "repo": "anuga_core",
+            "stars": 59,
+            "topics": [
+              "finite-volume",
+              "flood-modelling",
+              "gpu",
+              "hydrodynamics",
+              "mpi",
+              "openmp",
+              "python",
+              "scientific-computing",
+              "sediment-transport",
+              "shallow-water-equations",
+              "storm-surge",
+              "tsunami"
+            ]
+          },
+          "first_seen": "2026-10-06T02:22:55.139Z"
+        },
+        {
+          "node_type": "item",
           "title": "Canal Design",
           "description": "Android app for designing smooth lined concrete canals.",
           "children": [],
@@ -53,6 +87,95 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ACI One-Way Beam Design",
+          "description": "Windows tool for designing reinforced concrete one-way beams to ACI provisions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 402780135,
+            "language": null,
+            "license": null,
+            "last_commit": "2022-10-10T10:20:26Z",
+            "open_issues": 0,
+            "owner": "QuantumNovice",
+            "repo": "ACI-One-Way-Beam_Design",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T02:22:55.139Z"
+        }
+      ],
+      "title": "Structural Analysis and Design Software"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kratos Multiphysics",
+          "description": "Open-source C++/Python framework for parallel multiphysics simulation, including structural, fluid, geomechanics, and DEM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is written in C++ with extensive Python interface.",
+            "homepage": "https://kratosmultiphysics.github.io/Kratos/",
+            "id": 81815495,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-05T16:29:05Z",
+            "open_issues": 754,
+            "owner": "KratosMultiphysics",
+            "repo": "Kratos",
+            "stars": 1370,
+            "topics": [
+              "bsd-license",
+              "c-plus-plus",
+              "dem",
+              "fem",
+              "kratos",
+              "kratos-multiphysics",
+              "mpi",
+              "multi-platform",
+              "multiphysics",
+              "numerical-methods",
+              "openmp",
+              "parallel-computing",
+              "python"
+            ]
+          },
+          "first_seen": "2026-10-06T02:22:55.139Z"
+        }
+      ],
+      "title": "Structural Simulation Software"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "That Open Engine",
+          "description": "Open-source TypeScript components for building browser-based BIM and IFC applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 509419736,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-05T18:59:34Z",
+            "open_issues": 14,
+            "owner": "ThatOpen",
+            "repo": "engine_components",
+            "stars": 709,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T02:22:55.139Z"
+        },
+        {
+          "node_type": "item",
           "title": "House Planner",
           "description": "Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.",
           "children": [],
@@ -64,10 +187,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-01T09:56:34Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "egmalt",
             "repo": "house-planner",
-            "stars": 103,
+            "stars": 113,
             "topics": [
               "3d",
               "architecture",
@@ -92,6 +215,102 @@
             ]
           },
           "first_seen": "2026-10-02T01:44:46.726Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bonsai-mcp",
+          "description": "Model Context Protocol server for Blender and Bonsai that lets LLMs inspect, query, and modify IFC models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 953199432,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-06T16:31:07Z",
+            "open_issues": 1,
+            "owner": "JotaDeRodriguez",
+            "repo": "Bonsai_mcp",
+            "stars": 64,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T02:22:55.139Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ifc-bonsai-mcp",
+          "description": "Model Context Protocol server that connects LLMs to IFC-based BIM authoring workflows in Blender through Bonsai.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An MCP server that connects LLMs to IFC-based BIM workflows in Blender using the Bonsai add-on.",
+            "homepage": null,
+            "id": 1082479798,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-10T10:19:24Z",
+            "open_issues": 0,
+            "owner": "Show2Instruct",
+            "repo": "ifc-bonsai-mcp",
+            "stars": 64,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T02:22:55.139Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ifcMCP",
+          "description": "Model Context Protocol server built on IfcOpenShell that lets LLM agents query entities and properties in IFC files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server that enables LLM agents to talk with IFC (Industry Foundation Classes) files",
+            "homepage": null,
+            "id": 998160186,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-06-08T13:29:52Z",
+            "open_issues": 1,
+            "owner": "smartaec",
+            "repo": "ifcMCP",
+            "stars": 34,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T02:22:55.139Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ifcx-mcp",
+          "description": "Model Context Protocol server for authoring IFC5/IFCX models with spatial structures, geometry, materials, classifications, validation, and glTF preview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for authoring IFC5/IFCX building information models through AI assistants. Supports spatial structures, geometry, materials, classifications, validation, glTF/Three.js preview, and multiple IFCX export formats.",
+            "homepage": null,
+            "id": 1207623324,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-04-12T07:21:44Z",
+            "open_issues": 0,
+            "owner": "louistrue",
+            "repo": "ifcx-mcp",
+            "stars": 25,
+            "topics": [
+              "aec",
+              "bcf",
+              "bim",
+              "building-information-modeling",
+              "gltf",
+              "ifc",
+              "ifc5",
+              "ifcx",
+              "mcp",
+              "model-context-protocol",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-06T02:22:55.139Z"
         },
         {
           "node_type": "item",
@@ -252,11 +471,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T23:50:54Z",
+            "last_commit": "2026-10-05T13:51:00Z",
             "open_issues": 9,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 897,
+            "stars": 900,
             "topics": [
               "ai",
               "bim",
@@ -298,7 +517,7 @@
             "open_issues": 0,
             "owner": "braedonsaunders",
             "repo": "bidwright",
-            "stars": 60,
+            "stars": 59,
             "topics": [
               "ai",
               "ai-agents",
@@ -330,7 +549,7 @@
             "id": 1242815792,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T18:57:39Z",
+            "last_commit": "2026-10-05T20:35:24Z",
             "open_issues": 8,
             "owner": "braedonsaunders",
             "repo": "beaconhs",
@@ -364,6 +583,117 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "anaStruct",
+              "description": "2D frame and truss structural analysis in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "2D structural analysis in Python",
+                "homepage": null,
+                "id": 62470606,
+                "language": "Python",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-10-02T05:05:07Z",
+                "open_issues": 34,
+                "owner": "anastruct",
+                "repo": "anaStruct",
+                "stars": 468,
+                "topics": [
+                  "axial-forces",
+                  "displacement",
+                  "finite-element-analysis",
+                  "shear-forces",
+                  "stiffness",
+                  "structural-analysis",
+                  "structural-engineering",
+                  "trusses"
+                ]
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WNTR",
+              "description": "EPA Water Network Tool for Resilience for EPANET-compatible water distribution simulation under disaster scenarios.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.",
+                "homepage": null,
+                "id": 63262591,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-08T21:17:00Z",
+                "open_issues": 29,
+                "owner": "USEPA",
+                "repo": "WNTR",
+                "stars": 464,
+                "topics": [
+                  "modeling",
+                  "ord",
+                  "python",
+                  "research",
+                  "simulation",
+                  "water"
+                ]
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
+            },
+            {
+              "node_type": "item",
+              "title": "topologicpy",
+              "description": "Python library for non-manifold topology and spatial modeling of buildings and graphs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The python bindings for topologic",
+                "homepage": null,
+                "id": 543479859,
+                "language": "Jupyter Notebook",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-10-04T15:13:22Z",
+                "open_issues": 0,
+                "owner": "wassimj",
+                "repo": "topologicpy",
+                "stars": 273,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
+            },
+            {
+              "node_type": "item",
+              "title": "concreteproperties",
+              "description": "Section properties, moment-curvature, and interaction diagrams for reinforced concrete sections.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Calculate section properties for reinforced concrete sections.",
+                "homepage": "https://concrete-properties.rtfd.io",
+                "id": 462072293,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-17T07:39:08Z",
+                "open_issues": 16,
+                "owner": "robbievanleeuwen",
+                "repo": "concrete-properties",
+                "stars": 245,
+                "topics": [
+                  "computational-mechanics",
+                  "concrete",
+                  "cross-section",
+                  "finite-element-analysis",
+                  "post-tensioned-concrete",
+                  "prestressed-concrete",
+                  "python",
+                  "reinforced-concrete",
+                  "section-properties",
+                  "structural-engineering"
+                ]
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
+            },
             {
               "node_type": "item",
               "title": "GeoEq",
@@ -406,6 +736,36 @@
             },
             {
               "node_type": "item",
+              "title": "OpenPile",
+              "description": "Python package for laterally and axially loaded pile calculations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pile calculations package. OpenPile aims to be democratize pile calculations for engineers and researchers in academia.",
+                "homepage": null,
+                "id": 584289322,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-05-25T19:04:00Z",
+                "open_issues": 13,
+                "owner": "TchilDill",
+                "repo": "openpile",
+                "stars": 38,
+                "topics": [
+                  "api",
+                  "beam",
+                  "fea",
+                  "fem",
+                  "geotechnics",
+                  "pile",
+                  "pisa",
+                  "winkler"
+                ]
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
+            },
+            {
+              "node_type": "item",
               "title": "ModifiedCamClay",
               "description": "Modified Cam Clay constitutive model for drained and undrained triaxial loading.",
               "children": [],
@@ -429,6 +789,41 @@
           "description": null,
           "node_type": "group",
           "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "web-ifc",
+              "description": "WebAssembly-powered library for reading and writing IFC files in browsers and Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Reading and writing IFC files with Javascript, at native speeds.",
+                "homepage": "https://thatopen.github.io/engine_web-ifc/demo",
+                "id": 318798304,
+                "language": "TypeScript",
+                "license": "MPL-2.0",
+                "last_commit": "2026-10-06T01:25:02Z",
+                "open_issues": 68,
+                "owner": "ThatOpen",
+                "repo": "engine_web-ifc",
+                "stars": 1055,
+                "topics": [
+                  "cpp",
+                  "emscripten",
+                  "ifc",
+                  "javascript",
+                  "wasm",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
         },
         {
           "children": [
@@ -641,7 +1036,7 @@
                 "open_issues": 133,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1943,
+                "stars": 1940,
                 "topics": [
                   "geography",
                   "geometry",
@@ -677,6 +1072,41 @@
                 ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IFC-Lite",
+              "description": "Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source IFC toolkit: WebGPU rendering, columnar in-memory store, exact-arithmetic geometry kernel. Runs from a CDN. 30+ TypeScript packages and 5 Rust crates. ",
+                "homepage": "https://ifclite.dev",
+                "id": 1131742715,
+                "language": "TypeScript",
+                "license": "MPL-2.0",
+                "last_commit": "2026-10-06T00:49:19Z",
+                "open_issues": 86,
+                "owner": "LTplus-AG",
+                "repo": "ifc-lite",
+                "stars": 408,
+                "topics": [
+                  "3d-viewer",
+                  "bcf",
+                  "cli",
+                  "columnar",
+                  "ids",
+                  "ifc",
+                  "ifc-parser",
+                  "mcp",
+                  "pointcloud",
+                  "rust",
+                  "script-editor",
+                  "sdk",
+                  "webgpu"
+                ]
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
             },
             {
               "node_type": "item",
@@ -730,6 +1160,27 @@
                 ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ifc_rs",
+              "description": "Rust implementation of IFC types for reading, creating, and writing IFC building models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A rust implementation of IFC types",
+                "homepage": null,
+                "id": 818217454,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2025-07-17T15:27:44Z",
+                "open_issues": 0,
+                "owner": "MetabuildDev",
+                "repo": "ifc_rs",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
             }
           ],
           "description": null,
@@ -741,7 +1192,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:05:56.894Z",
+    "last_updated": "2026-10-06T02:22:55.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -749,8 +1200,8 @@
       "id": 597700847,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-04T02:33:34Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-05T10:18:34Z",
+      "open_issues": 2,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
       "stars": 96,
@@ -775,7 +1226,7 @@
         "structural-engineering"
       ]
     },
-    "original_repository_sha": "81baa59f1a136c012f33dbd7044155e169855b80",
+    "original_repository_sha": "8eca55a05036c52e3de844747cd04ae451d89fa3",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"
