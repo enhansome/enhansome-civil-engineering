@@ -6,34 +6,36 @@
 
 ## Contents
 
-* [Reporting and Documentation](#reporting-and-documentation)
-* [Water Resources and Drainage](#water-resources-and-drainage)
-* [Structural Analysis and Design Software](#structural-analysis-and-design-software)
+* [Reporting & Documentation](#reporting--documentation)
+* [Water Resources & Drainage](#water-resources--drainage)
+* [Structural Analysis & Design Software](#structural-analysis--design-software)
 * [Structural Simulation Software](#structural-simulation-software)
 * [Geotechnical Engineering](#geotechnical-engineering)
 * [Transportation Engineering](#transportation-engineering)
+  * [Pavement Design](#pavement-design)
 * [Environmental Engineering](#environmental-engineering)
-* [Digital Twins, BIM, and Construction Tech](#digital-twins-bim-and-construction-tech)
-* [Reality Capture and Surveying](#reality-capture-and-surveying)
+  * [Wastewater Treatment](#wastewater-treatment)
+* [BIM & Digital Twins](#bim--digital-twins)
+* [Reality Capture & Surveying](#reality-capture--surveying)
 * [Calculations](#calculations)
 * [Web Calculators](#web-calculators)
   * [Structure Analysis](#structure-analysis)
-  * [Concrete and Construction](#concrete-and-construction)
 * [Drafting](#drafting)
 * [3D Modelling](#3d-modelling)
 * [GIS](#gis)
 * [Project Management](#project-management)
+* [Cost Estimating & Quantity Takeoff](#cost-estimating--quantity-takeoff)
 * [Spreadsheet](#spreadsheet)
-* [Machine Learning and AI](#machine-learning-and-ai)
-* [Programming Resources and Libraries](#programming-resources-and-libraries)
+* [Machine Learning & AI](#machine-learning--ai)
+* [Programming Resources & Libraries](#programming-resources--libraries)
   * [Python](#python)
   * [JavaScript](#javascript)
   * [Julia](#julia)
   * [R](#r)
-  * [C# and .NET](#c-and-net)
+  * [C# & .NET](#c--net)
   * [Rust](#rust)
 
-## Reporting and Documentation
+## Reporting & Documentation
 
 * [Microsoft Word](https://www.microsoft.com/microsoft-365/word) - Word processing and report production.
 * [LaTeX](https://www.latex-project.org/) - Typesetting system widely used for technical reports, standards, and academic papers.
@@ -41,14 +43,13 @@
 * [Bluebeam Revu](https://www.bluebeam.com/revu/) - PDF markup, review, and construction document collaboration.
 * [Newforma Project Center](https://www.newforma.com/project-information-management/) - Project information management for AEC teams.
 * [Autodesk BIM 360](https://www.autodesk.com/bim-360/) - Legacy Autodesk construction management platform, now within Autodesk Construction Cloud.
-* [CoConstruct](https://www.buildertrend.com/coconstruct/) - Residential construction management product now part of Buildertrend.
 * [Autodesk Construction Cloud](https://construction.autodesk.com/) - Cloud platform for design collaboration, model coordination, build workflows, and operations handover.
 * [Trimble Connect](https://www.trimble.com/en/products/trimble-connect) - Common data environment for BIM and construction collaboration.
 * [Typst](https://typst.app/docs/) - Open-source markup-based typesetting system for fast, reproducible technical reports with equations, references, and templates.
 
-## Water Resources and Drainage
+## Water Resources & Drainage
 
-* [ANUGA](https://github.com/anuga-community/anuga_core) ⭐ 61 | 🐛 30 | 🌐 Python | 📅 2026-10-29 - Open-source shallow-water solver for flood, tsunami, and storm-surge inundation modeling with a Python interface.
+* [ANUGA](https://github.com/anuga-community/anuga_core) ⭐ 61 | 🐛 26 | 🌐 Python | 📅 2026-11-02 - Open-source shallow-water solver for flood, tsunami, and storm-surge inundation modeling with a Python interface.
 * [Canal Design](https://github.com/QuantumNovice/Canal-Design) ⭐ 0 | 🐛 0 | 📅 2022-05-24 - Android app for designing smooth lined concrete canals.
 * [Design Unlined Canal](https://github.com/QuantumNovice/Design-Unlined-Canal) ⭐ 0 | 🐛 0 | 📅 2022-05-21 - Unlined canal design using Kennedy's silt theory.
 * [EPA SWMM](https://www.epa.gov/water-research/storm-water-management-model-swmm) - Urban drainage modeling software developed by the Environmental Protection Agency.
@@ -62,7 +63,6 @@
 * [MIKE FLOOD](https://www.dhigroup.com/technologies/mikepoweredbydhi) - Flood modeling software by DHI.
 * [InfoWorks ICM](https://www.autodesk.com/products/infoworks-icm/overview) - Integrated catchment modeling for drainage, sewer, and flood networks.
 * [PCSWMM](https://www.pcswmm.com/) - Stormwater, wastewater, and watershed modeling software.
-* [i-Water Flow](https://i-water.org/) - Integrated water management software.
 * [ICPR](https://streamline.tech/stormwise) - Hydraulic and groundwater modeling software by Streamline Technologies.
 * [InfoWater Pro](https://www.autodesk.com/products/infowater-pro/overview) - Water distribution modeling in an ArcGIS-based interface.
 * [CE-QUAL-W2](http://www.ce.pdx.edu/w2/) - 2D water quality and hydrodynamic modeling for rivers, estuaries, lakes, reservoirs, and river basin systems.
@@ -73,8 +73,14 @@
 * [Delft3D FM](https://oss.deltares.nl/web/delft3dfm) - Deltares open-source suite for 1D/2D/3D hydrodynamics, sediment transport, morphology, waves, and water quality.
 * [TELEMAC-MASCARET](https://www.opentelemac.org/) - Open-source suite for free-surface flow, sediment transport, waves, and water quality in rivers, estuaries, and coasts.
 * [iRIC](https://i-ric.org/en/) - Free river flow and riverbed variation simulation platform bundling multiple 2D hydraulic solvers.
+* [HY-8](https://www.fhwa.dot.gov/engineering/hydraulics/software/hy8/) - FHWA culvert hydraulic analysis and design program.
+* [WMS](https://aquaveo.com/software/wms/introduction) - Watershed delineation and hydrologic modeling interface.
+* [SMS](https://aquaveo.com/software/sms/introduction) - Surface-water modeling system for 1D and 2D hydraulics.
+* [GMS](https://aquaveo.com/software/gms/introduction) - Groundwater modeling interface for MODFLOW and related models.
+* [MIKE+](https://www.dhigroup.com/technologies/mikepoweredbydhi/mikeplus) - Integrated modeling of water distribution, sewer, and river networks.
+* [HEC-ResSim](https://www.hec.usace.army.mil/software/hec-ressim/) - USACE reservoir operations simulation.
 
-## Structural Analysis and Design Software
+## Structural Analysis & Design Software
 
 * [SAP2000](https://www.csiamerica.com/products/sap2000) - General-purpose structural analysis and design by Computers and Structures, Inc.
 * [ETABS](https://www.csiamerica.com/products/etabs) - Building analysis and design by Computers and Structures, Inc.
@@ -103,11 +109,19 @@
 * [LUSAS](https://www.lusas.com/) - Finite element analysis for bridges, civil structures, and nonlinear, dynamic, and staged construction problems.
 * [Strand7](https://www.strand7.com/) - General-purpose finite element analysis for structural, dynamic, and heat transfer problems.
 * [Karamba3D](https://karamba3d.com/) - Parametric structural finite element analysis inside Rhino and Grasshopper.
+* [Response-2000](https://www.hadrianworks.com/) - Free sectional analysis of reinforced concrete members using the modified compression field theory.
+* [StructurePoint](https://structurepoint.org/) - spColumn, spSlab, spMats, and other reinforced concrete design programs.
+* [ADAPT-Builder](https://risa.com/products/adapt-builder) - Post-tensioned and reinforced concrete floor and foundation design.
+* [RAM Concept](https://www.bentley.com/products/ram-concept/) - Reinforced and post-tensioned concrete slab and mat design.
+* [ENERCALC](https://enercalc.com/) - Structural design calculations for beams, columns, footings, and walls.
+* [SeismoStruct](https://seismosoft.com/products/seismostruct/) - Nonlinear static and dynamic analysis of frames under seismic loading.
+* [PERFORM-3D](https://www.csiamerica.com/products/perform3d) - Nonlinear performance-based seismic analysis of structures.
+* [LARSA 4D](https://www.larsa4d.com/) - Bridge analysis and design with staged construction.
 
 ## Structural Simulation Software
 
-* [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,392 | 🐛 764 | 🌐 C++ | 📅 2026-11-01 - Open-source C++/Python framework for parallel multiphysics simulation, including structural, fluid, geomechanics, and DEM applications.
-* [AgentFEM](https://github.com/haoming-luo/agentfem) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2026-11-01 - Open-source FEniCSx-based finite-element workflows for solid mechanics, thermoelasticity, and vibration, with Python models, command-line runs, and result verification.
+* [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,392 | 🐛 763 | 🌐 C++ | 📅 2026-11-02 - Open-source C++/Python framework for parallel multiphysics simulation, including structural, fluid, geomechanics, and DEM applications.
+* [AgentFEM](https://github.com/haoming-luo/agentfem) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Open-source FEniCSx-based finite-element workflows for solid mechanics, thermoelasticity, and vibration, with Python models, command-line runs, and result verification.
 * [Ansys](https://www.ansys.com/) - Multiphysics simulation software.
 * [Abaqus](https://www.3ds.com/products/simulia/abaqus) - Finite element analysis software.
 * [LS-DYNA](https://www.ansys.com/products/structures/ansys-ls-dyna) - Dynamic and nonlinear simulation software.
@@ -118,6 +132,8 @@
 * [FEniCSx](https://fenicsproject.org/) - Open-source computing platform for solving partial differential equations with the finite element method.
 * [OpenFOAM](https://www.openfoam.com/) - Open-source CFD toolbox used for wind engineering, hydraulic structures, and ventilation studies.
 * [Engineering on Web FEA](https://engineeringonweb.com/fea/?lang=en) - Free browser-based finite element solver for 2D and 3D structural, thermal, fluid, and electromagnetic problems, with WebGPU acceleration and no installation.
+* [DIANA FEA](https://dianafea.com/) - Finite element analysis for concrete, masonry, soil, and dams.
+* [ATENA](https://www.cervenkaconsulting.com/products/atena/) - Nonlinear finite element analysis of reinforced concrete.
 
 ## Geotechnical Engineering
 
@@ -140,7 +156,17 @@
 * [Slide2](https://www.rocscience.com/software/slide2) - 2D limit equilibrium slope stability analysis for soil and rock slopes, embankments, and retaining walls.
 * [GEO5](https://www.finesoftware.eu/geotechnical-software/) - Suite of geotechnical programs for foundations, retaining walls, slopes, piles, excavations, and tunnels.
 * [Leapfrog Works](https://www.seequent.com/products-solutions/leapfrog-works/) - 3D geological modeling of ground conditions for civil and infrastructure projects.
-* [X Slope](https://github.com/njones61/xslope) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Open-source python package for seepage and slope stability analysis
+* [X Slope](https://github.com/njones61/xslope) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-11-03 - Open-source python package for seepage and slope stability analysis
+* [DEEPSOIL](https://deepsoil.cee.illinois.edu/) - 1D site response analysis in the time and frequency domains.
+* [OPTUM G2/G3](https://optumce.com/) - Geotechnical finite element and limit analysis in 2D and 3D.
+* [ZSoil](https://www.zsoil.com/) - Finite element analysis for soil-structure interaction.
+* [WALLAP](https://www.geosolve.co.uk/wallap1.htm) - Retaining wall and embedded wall analysis.
+* [DeepEX](https://www.deepexcavation.com/) - Deep excavation and shoring wall design.
+* [GROUP](https://www.ensoftinc.com/products/group/) - Analysis of pile groups under axial and lateral loads.
+* [SHAFT](https://www.ensoftinc.com/products/shaft/) - Axial capacity and settlement of drilled shafts and piles.
+* [Dips](https://www.rocscience.com/software/dips) - Stereonet analysis of rock discontinuity orientations.
+* [UnWedge](https://www.rocscience.com/software/unwedge) - Stability of wedges around underground excavations.
+* [RocSlope2](https://www.rocscience.com/software/rocslope2) - Planar and wedge stability analysis of rock slopes.
 
 ## Transportation Engineering
 
@@ -166,6 +192,14 @@
 * [OSMnx](https://osmnx.readthedocs.io/) - Python package for downloading, modeling, analyzing, and visualizing street networks from OpenStreetMap.
 * [CityFlow](https://cityflow-project.github.io/) - Open-source large-scale urban traffic simulator with a Python interface for traffic control and transportation research.
 * [12d Model](https://www.12d.com/) - Civil and surveying software for road design, drainage, earthworks, and terrain modeling.
+* [PTV Visum](https://www.ptvgroup.com/en/products/ptv-visum) - Macroscopic travel demand modeling and network analysis.
+* [Bentley OpenPaths](https://www.bentley.com/products/openpaths/) - Transportation planning and travel demand modeling, formerly Cube and Emme.
+
+### Pavement Design
+
+* [AASHTOWare Pavement ME Design](https://me-design.com/) - Mechanistic-empirical design of flexible and rigid pavements.
+* [PaveXpress](https://www.pavexpress.com/) - Free web tool for AASHTO 93 flexible and rigid pavement design.
+* [HDM-4](https://www.hdmglobal.com/) - Highway development and management for road investment analysis.
 
 ## Environmental Engineering
 
@@ -182,12 +216,21 @@
 * [OpenStudio](https://openstudio.net/) - Open-source tools for building energy modeling with EnergyPlus and daylighting analysis.
 * [Ladybug Tools](https://www.ladybug.tools/) - Open-source environmental design plugins for Grasshopper and Python covering climate, daylight, energy, and comfort analysis.
 * [One Click LCA](https://oneclicklca.com/) - Embodied carbon and life cycle assessment for buildings and infrastructure.
+* [WASP](https://www.epa.gov/hydrowq/water-quality-analysis-simulation-program-wasp) - EPA water quality simulation for rivers, lakes, and estuaries.
+* [QUAL2K](https://qual2k.com/) - River and stream water quality model.
+* [CALPUFF](https://src.com/) - Lagrangian puff model for long-range air pollutant dispersion.
 
-## Digital Twins, BIM, and Construction Tech
+### Wastewater Treatment
 
-* [BIM Craft](https://github.com/IPedrax/BIMCraft) ⭐ 836 | 🐛 58 | 🌐 Rust | 📅 2026-10-29 - Open-Source BIM software for AEC workflows with support for Revit and IFC files.
-* [That Open Engine](https://github.com/ThatOpen/engine_components) ⭐ 724 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-22 - Open-source TypeScript components for building browser-based BIM and IFC applications.
-* [House Planner](https://github.com/egmalt/house-planner) ⭐ 351 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
+* [BioWin](https://envirosim.com/) - Wastewater treatment plant process simulation.
+* [GPS-X](https://www.hydromantis.com/) - Modeling and simulation of municipal and industrial wastewater plants.
+* [SUMO](https://dynamita.com/) - Wastewater process simulation with open model code.
+
+## BIM & Digital Twins
+
+* [BIM Craft](https://github.com/IPedrax/BIMCraft) ⭐ 887 | 🐛 64 | 🌐 Rust | 📅 2026-10-29 - Open-Source BIM software for AEC workflows with support for Revit and IFC files.
+* [That Open Engine](https://github.com/ThatOpen/engine_components) ⭐ 726 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-22 - Open-source TypeScript components for building browser-based BIM and IFC applications.
+* [House Planner](https://github.com/egmalt/house-planner) ⭐ 357 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
 * [ifc-bonsai-mcp](https://github.com/Show2Instruct/ifc-bonsai-mcp) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - Model Context Protocol server that connects LLMs to IFC-based BIM authoring workflows in Blender through Bonsai.
 * [Bonsai-mcp](https://github.com/JotaDeRodriguez/Bonsai_mcp) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-09-06 - Model Context Protocol server for Blender and Bonsai that lets LLMs inspect, query, and modify IFC models.
 * [ifcMCP](https://github.com/smartaec/ifcMCP) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2025-06-08 - Model Context Protocol server built on IfcOpenShell that lets LLM agents query entities and properties in IFC files.
@@ -224,14 +267,19 @@
 * [BIMcollab Zoom](https://www.bimcollab.com/en/products/bimcollab-zoom/) - IFC model viewer and checker for clash detection, smart views, and BCF issue management.
 * [dRofus](https://www.drofus.com/en/) - Planning and data management for building programs, room data, equipment, and BIM requirements.
 * [Dalux](https://www.dalux.com/) - BIM viewer and construction field management for quality, safety, handover, and facility management.
+* [SYNCHRO 4D](https://www.bentley.com/products/synchro-4d/) - 4D construction planning and schedule simulation linked to BIM.
+* [ProjectWise](https://www.bentley.com/products/projectwise/) - Engineering document management and project collaboration.
+* [Oracle Aconex](https://www.oracle.com/construction-engineering/aconex/) - Common data environment for document control on large projects.
+* [Dynamo](https://dynamobim.org/) - Visual programming for Revit and Civil 3D.
+* [BIMvision](https://bimvision.eu/) - Free IFC model viewer.
 
-## Reality Capture and Surveying
+## Reality Capture & Surveying
 
 * [Leica Cyclone 3DR](https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone/leica-cyclone-3dr) - Point cloud processing, mesh creation, and deliverables for laser scanning.
 * [Leica Infinity](https://leica-geosystems.com/products/gnss-systems/software/leica-infinity) - Survey data processing software.
 * [Trimble Business Center](https://geospatial.trimble.com/products-and-solutions/trimble-business-center) - Survey CAD, GNSS, scanning, photogrammetry, and construction data workflows.
 * [Autodesk ReCap Pro](https://www.autodesk.com/products/recap/overview) - Reality capture and point cloud processing.
-* [RealityCapture](https://www.capturingreality.com/) - Photogrammetry software for 3D reconstruction.
+* [RealityScan](https://www.realityscan.com/) - Photogrammetry and laser-scan 3D reconstruction, formerly RealityCapture.
 * [Agisoft Metashape](https://www.agisoft.com/) - Photogrammetry software for processing imagery into point clouds, meshes, and orthomosaics.
 * [Pix4Dmapper](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software/) - Photogrammetry and drone mapping software.
 * [CloudCompare](https://www.cloudcompare.org/) - Open-source point cloud and mesh processing software.
@@ -239,6 +287,14 @@
 * [OpenDroneMap](https://opendronemap.org/odm/) - Open-source aerial imagery toolkit that produces orthophotos, elevation models, point clouds, and textured 3D models.
 * [PDAL](https://pdal.org/) - Open-source library and command-line tools for translating and processing point cloud data.
 * [Open3D](https://www.open3d.org/) - Open-source library for 3D data processing, including point cloud registration, meshing, and visualization.
+* [FARO SCENE](https://www.faro.com/en/Products/Software/SCENE-Software) - Laser scan registration and point cloud processing.
+* [Trimble RealWorks](https://geospatial.trimble.com/en/products/software/trimble-realworks) - Point cloud registration, analysis, and modeling.
+* [iTwin Capture Modeler](https://www.bentley.com/products/itwin-capture-modeler/) - Reality meshes from photos and point clouds, formerly ContextCapture.
+* [Meshroom](https://alicevision.org/#meshroom) - Open-source photogrammetry built on AliceVision.
+* [COLMAP](https://colmap.github.io/) - Open-source structure-from-motion and multi-view stereo.
+* [LAStools](https://rapidlasso.de/product-overview/) - Fast command-line tools for processing LiDAR point clouds.
+* [Polycam](https://poly.cam/) - Mobile LiDAR and photogrammetry scanning for phones and tablets.
+* [KIRI Engine](https://www.kiriengine.app/) - Mobile and web photogrammetry and 3D Gaussian splatting.
 
 ## Calculations
 
@@ -257,35 +313,33 @@
 * [Julia](https://julialang.org/) - High-level programming language for numerical and scientific computing.
 * [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
 * [SymPy](https://docs.sympy.org/latest/index.html) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
+* [Jupyter](https://jupyter.org/) - Interactive notebooks combining code, equations, and results.
+* [Calcs.com](https://calcs.com/) - Cloud structural calculations for beams, columns, and connections, formerly ClearCalcs.
+* [CalcTree](https://www.calctree.com/) - Collaborative engineering calculation documents.
 
 ## Web Calculators
 
-* [ComplyOnSite](https://complyonsite.com/tools) - Free browser tools for UK construction site teams, including HAVS and noise exposure calculators, a RAMS builder, waste notes, and EWC code lookup; no account required.
-* [UnitConv](https://unitconv.online/) - Free browser-based converter for engineering units across length, area, volume, mass, pressure, energy, power, temperature, and related quantities; no login required.
+* [ComplyOnSite](https://complyonsite.com/tools) - Free UK site tools: HAVS and noise calculators, RAMS builder, EWC code lookup.
+* [UnitConv](https://unitconv.online/) - Free engineering unit converter for length, area, pressure, energy and more.
+* [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Concrete volume, bag count, slab, footing and material cost calculators.
+* [RoofingCalculatorHQ](https://roofingcalculatorhq.com) - Roof area, pitch, takeoff, snow/wind load and replacement cost calculators.
+* [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - U.S. roof replacement cost estimator by size, material, tear-off and labor.
+* [BuildRefs](https://buildrefs.com) - Concrete, framing, NEC, Manual J and structural calculators citing their codes.
+* [Concrete Network Calculator](https://www.concretenetwork.com/concrete/howmuch/calculator.htm) - Concrete quantity calculator for slabs, footings, columns and premix bags.
+* [Concrete Quantity](https://concretequantity.com) - 32 concrete calculators for slabs, footings, walls and stairs; metric/imperial.
+* [Libre Calculator](https://librecalculator.com/calculators/concrete/) - Concrete slab volume calculator with adjustable allowance and worked steps.
+* [TrueToolCalc](https://truetoolcalc.com/) - Concrete, masonry, flooring and roofing calculators with formulas and examples.
+* [Hexvan Trade Calculators](https://hexvan.com/tools) - Trade calculators for concrete, brick, tile, paint, voltage drop and BTU sizing.
+* [Level Commercial Building Value & Trade Expenditure Calculator](https://levelcfo.com/tools/building-revenue-calculator/) - US commercial building replacement value and 17-trade O\&M/capex cost model.
+* [YardCalc](https://getyardcalc.com/) - Concrete, asphalt, gravel and sand quantity and cost calculators.
+* [ProjectCalcs](https://projectcalcs.com/) - Material quantity calculators for concrete, brick, rebar, flooring and roofing.
+* [Modern CFO Cost Segregation Calculator](https://freecostseg.com/calculator/) - Cost segregation calculator estimating accelerated depreciation tax savings.
 
 ### Structure Analysis
 
-* [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams.
-* [Xarpis 2D Frame & Beam FEA](https://www.xarpis.com/calculators/frame-fea-2d) - Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes.
-* [Calculadora Estructuras](https://www.calculadoraestructuras.es/) - Free browser-based structural calculators in Spanish: section properties, continuous beams, column buckling (EC3/CTE), 2D trusses and frames, Spanish CTE loads and timber beams (DB SE-M), with steel section tables; no login.
-* [RodX Beam Calculator](https://rodxcalc.com/beam-calculator) - Free browser-based continuous beam analysis with internal hinges, point, distributed, and moment loads, user-defined E and I, reactions, and shear, moment, and deflection diagrams; no login.
-
-### Concrete and Construction
-
-* [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete calculators and reference guides for concrete volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning.
-* [RoofingCalculatorHQ](https://roofingcalculatorhq.com) - Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports.
-* [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Free U.S. roof replacement planning calculator using roof size, roofing material, tear-off, and local labor assumptions, with low-to-high installed-cost ranges; no account required.
-* [BuildRefs](https://buildrefs.com) - Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login.
-* [Concrete Network Calculator](https://www.concretenetwork.com/concrete/howmuch/calculator.htm) - Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags.
-* [Concrete Quantity](https://concretequantity.com) - Free concrete calculators: 32 tools for slabs, footings, walls, columns, stairs, block walls, driveways, gravel and mortar, with imperial and metric units, bag counts and cost estimates.
-* [Build Quantities](https://buildquantities.com/calculators/) - Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations.
-* [Libre Calculator](https://librecalculator.com/calculators/concrete/) - Free concrete slab volume calculator using dimensions and an adjustable allowance, with worked steps and a diagram.
-* [TrueToolCalc](https://truetoolcalc.com/) - Free construction calculators for concrete slab, column and footing volume, premix bag counts, brick, CMU block and mortar, plus flooring, roofing and fencing; each tool shows its formula, a worked example and its limitations.
-* [Hexvan Trade Calculators](https://hexvan.com/tools) - Free calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing; metric or imperial, and each page shows its formula and a worked example.
-* [Level Commercial Building Value & Trade Expenditure Calculator](https://levelcfo.com/tools/building-revenue-calculator/) - Open commercial building replacement-value and 17-trade annual O\&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org)).
-* [YardCalc](https://getyardcalc.com/) - Free construction and landscaping material calculators for concrete, asphalt, gravel and sand quantities, bag counts and costs, with worked formulas and user-supplied densities and prices.
-* [ProjectCalcs](https://projectcalcs.com/) - Free browser-based material quantity calculators for concrete, brick, mortar, rebar, flooring, roofing and other home projects; no account required.
-* [Modern CFO Cost Segregation Calculator](https://freecostseg.com/calculator/) - Free browser-based IRS MACRS building component and cost segregation allocation calculator across 45 commercial, industrial, and residential investment property types, separating 5-year non-structural building components, 15-year site improvements, and 27.5-year/39-year structural shells ([CC BY 4.0 Dataset](https://freecostseg.com/resources/cost-segregation-benchmarks/)).
+* [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis with reactions, axial, shear and moment diagrams.
+* [Calculadora Estructuras](https://www.calculadoraestructuras.es/) - Spanish structural calculators: beams, buckling (EC3/CTE), trusses, timber.
+* [RodX Beam Calculator](https://rodxcalc.com/beam-calculator) - Continuous beam analysis with hinges, reactions, shear, moment and deflection.
 
 ## Drafting
 
@@ -298,6 +352,11 @@
 * [OpenBuildings Designer](https://www.bentley.com/software/openbuildings-designer/) - BIM software for building design and documentation.
 * [QCAD](https://www.qcad.org/en/) - Open-source 2D CAD application for technical drawings, plans, details, schematics, and DXF/DWG workflows.
 * [Cicada](https://hexenwerkzeug.com/tools/cicada) - Free browser-based 2D CAD that opens DWG and DXF files and saves DXF and SVG, with no install or upload.
+* [LibreCAD](https://librecad.org/) - Open-source 2D CAD.
+* [DraftSight](https://www.draftsight.com/) - 2D and 3D CAD compatible with DWG.
+* [ZWCAD](https://www.zwsoft.com/product/zwcad) - DWG-compatible CAD software.
+* [GstarCAD](https://www.gstarcad.net/) - DWG-compatible CAD software.
+* [progeCAD](https://www.progesoft.com/) - DWG-compatible CAD software.
 
 ## 3D Modelling
 
@@ -320,6 +379,15 @@
 * [Vectorworks Architect](https://www.vectorworks.net/en-US/architect) - BIM and CAD software for architectural design, documentation, and visualization.
 * [Twinmotion](https://www.twinmotion.com/) - Real-time architectural and infrastructure visualization built on Unreal Engine.
 * [Maya](https://www.autodesk.com/products/maya/overview) - 3D animation, modeling, simulation, and rendering software widely used for feature films, TV, and video games.
+* [Unreal Engine](https://www.unrealengine.com/) - Real-time 3D engine for architectural visualization and digital twins.
+* [Unity](https://unity.com/) - Real-time 3D engine for visualization, AR/VR, and digital twins.
+* [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) - OpenUSD platform for 3D collaboration, simulation, and digital twins.
+* [Lumion](https://lumion.com/) - Real-time architectural rendering.
+* [Enscape](https://www.chaos.com/enscape) - Real-time rendering plugin for Revit, SketchUp, Rhino, and Archicad.
+* [D5 Render](https://www.d5render.com/) - Real-time ray-traced architectural rendering.
+* [V-Ray](https://www.chaos.com/vray) - Photorealistic rendering for 3ds Max, SketchUp, Rhino, and Revit.
+* [Chaos Vantage](https://www.chaos.com/vantage) - Real-time ray-traced exploration of large scenes.
+* [AutoCAD Plant 3D](https://www.autodesk.com/products/autocad-plant-3d/overview) - Plant design and piping layout.
 
 ## GIS
 
@@ -341,12 +409,18 @@
 * [Google Earth Engine](https://earthengine.google.com/) - Planetary-scale geospatial analysis platform.
 * [Kepler.gl](https://kepler.gl/) - Open-source geospatial analysis and visualization tool.
 * [Felt](https://www.felt.com/platform/web-gis) - Collaborative cloud GIS for spatial analysis, infrastructure mapping, dashboards, and stakeholder-facing web maps.
+* [GDAL](https://gdal.org/) - Translator library and command-line tools for raster and vector geospatial formats.
+* [MapInfo Pro](https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro) - Desktop GIS for mapping and spatial analysis.
+* [WhiteboxTools](https://www.whiteboxgeo.com/) - Geospatial analysis with strong terrain and hydrology tools.
+* [QField](https://qfield.org/) - Mobile field data collection for QGIS projects.
+* [ArcGIS Field Maps](https://www.esri.com/en-us/arcgis/products/arcgis-field-maps/overview) - Mobile mapping and field data collection.
+* [JOSM](https://josm.openstreetmap.de/) - Desktop editor for OpenStreetMap.
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 1,099 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-01 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
-* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 79 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
-* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 12 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-30 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 1,131 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-02 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 79 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-02 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
+* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 12 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-02 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -366,6 +440,18 @@
 * [ALICE Technologies](https://www.alicetechnologies.com/) - Construction schedule optimization that simulates and compares sequencing scenarios.
 * [nPlan](https://www.nplan.io/) - Schedule risk forecasting for capital projects using historical project data.
 * [Trunk Tools](https://trunktools.com/) - Natural-language search and question answering over construction documents, specs, RFIs, and submittals.
+* [Asta Powerproject](https://eleco.com/products/asta/asta-powerproject/) - Construction planning and scheduling.
+* [ProjectLibre](https://www.projectlibre.com/) - Open-source project scheduling compatible with Microsoft Project.
+* [GanttProject](https://www.ganttproject.biz/) - Free desktop Gantt chart scheduling.
+
+## Cost Estimating & Quantity Takeoff
+
+* [RIB CostX](https://www.rib-software.com/en/rib-costx) - 2D and BIM quantity takeoff and estimating.
+* [PlanSwift](https://www.planswift.com/) - Digital takeoff and estimating from plans.
+* [On-Screen Takeoff](https://www.oncenter.com/products/on-screen-takeoff/) - Digital quantity takeoff from construction drawings.
+* [STACK](https://www.stackct.com/) - Cloud takeoff and estimating.
+* [HCSS HeavyBid](https://www.hcss.com/products/construction-estimating-software/) - Estimating and bidding for heavy civil construction.
+* [RSMeans Data](https://www.rsmeans.com/) - Construction cost database for estimating.
 
 ## Spreadsheet
 
@@ -379,8 +465,11 @@
 * [Quip Spreadsheets](https://quip.com/) - Collaborative spreadsheets inside Salesforce Quip.
 * [Gnumeric](https://www.gnumeric.org/) - Open-source spreadsheet focused on responsive handling of large workbooks and accurate numerical calculations.
 
-## Machine Learning and AI
+## Machine Learning & AI
 
+* [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 55,095 | 🐛 596 | 🌐 Jupyter Notebook | 📅 2024-09-18 - Foundation model for image segmentation workflows.
+* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,965 | 🐛 594 | 🌐 Python | 📅 2026-10-27 - Object detection and segmentation library.
+* [MMDetection](https://github.com/open-mmlab/mmdetection) ⭐ 33,022 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21 - Object detection toolbox and model zoo.
 * [TensorFlow](https://www.tensorflow.org/) - Machine learning library developed by Google.
 * [PyTorch](https://pytorch.org/) - Machine learning library.
 * [scikit-learn](https://scikit-learn.org/) - Machine learning library for Python.
@@ -391,25 +480,29 @@
 * [XGBoost](https://xgboost.ai/) - Gradient boosting library.
 * [LightGBM](https://lightgbm.readthedocs.io/) - Gradient boosting library.
 * [Ultralytics YOLO](https://www.ultralytics.com/) - Computer vision models often used for defect detection, traffic analysis, and site imagery workflows.
-* [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 55,085 | 🐛 596 | 🌐 Jupyter Notebook | 📅 2024-09-18 - Foundation model for image segmentation workflows.
 * [Hugging Face](https://huggingface.co/) - Model, dataset, and machine learning application hub.
 * [LangChain](https://www.langchain.com/) - Framework for building LLM applications and retrieval workflows.
 * [LlamaIndex](https://www.llamaindex.ai/) - Data framework for LLM applications over documents and structured data.
 * [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/) - Graph neural network library for infrastructure networks, meshes, point clouds, and other structured engineering data.
+* [OpenCV](https://opencv.org/) - Computer vision library for image and video processing.
+* [Keras](https://keras.io/) - High-level deep learning API.
 
-## Programming Resources and Libraries
+## Programming Resources & Libraries
 
 ### Python
 
-* [WNTR](https://github.com/USEPA/WNTR) ⭐ 473 | 🐛 36 | 🌐 Python | 📅 2026-10-30 - EPA Water Network Tool for Resilience for EPANET-compatible water distribution simulation under disaster scenarios.
-* [anaStruct](https://github.com/anastruct/anaStruct) ⭐ 469 | 🐛 30 | 🌐 Python | 📅 2026-10-31 - 2D frame and truss structural analysis in Python.
-* [topologicpy](https://github.com/wassimj/topologicpy) ⭐ 278 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Python library for non-manifold topology and spatial modeling of buildings and graphs.
+* [handcalcs](https://github.com/connorferster/handcalcs) ⭐ 5,809 | 🐛 9 | 🌐 Python | 📅 2026-10-30 - Render Python calculations as hand-calculation style LaTeX.
+* [ezdxf](https://github.com/mozman/ezdxf) ⭐ 1,516 | 🐛 18 | 🌐 Python | 📅 2026-11-02 - Read and write DXF drawings.
+* [FloPy](https://github.com/modflowpy/flopy) ⭐ 641 | 🐛 61 | 🌐 Python | 📅 2026-11-03 - Build, run, and post-process MODFLOW models.
+* [WNTR](https://github.com/USEPA/WNTR) ⭐ 473 | 🐛 35 | 🌐 Python | 📅 2026-11-02 - EPA Water Network Tool for Resilience for EPANET-compatible water distribution simulation under disaster scenarios.
+* [anaStruct](https://github.com/anastruct/anaStruct) ⭐ 469 | 🐛 31 | 🌐 Python | 📅 2026-11-02 - 2D frame and truss structural analysis in Python.
+* [forallpeople](https://github.com/connorferster/forallpeople) ⭐ 379 | 🐛 51 | 🌐 Python | 📅 2026-11-01 - SI units for engineering calculations.
+* [topologicpy](https://github.com/wassimj/topologicpy) ⭐ 279 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Python library for non-manifold topology and spatial modeling of buildings and graphs.
 * [concreteproperties](https://github.com/robbievanleeuwen/concrete-properties) ⭐ 248 | 🐛 16 | 🌐 Python | 📅 2026-09-17 - Section properties, moment-curvature, and interaction diagrams for reinforced concrete sections.
 * [GeoEq](https://github.com/geoeq/geoeq) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2026-07-30 - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
-* [OpenPile](https://github.com/TchilDill/openpile) ⭐ 40 | 🐛 13 | 🌐 Python | 📅 2026-11-01 - Python package for laterally and axially loaded pile calculations.
+* [OpenPile](https://github.com/TchilDill/openpile) ⭐ 40 | 🐛 13 | 🌐 Python | 📅 2026-11-02 - Python package for laterally and axially loaded pile calculations.
 * [ModifiedCamClay](https://github.com/QuantumNovice/ModifiedCamClay) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - Modified Cam Clay constitutive model for drained and undrained triaxial loading.
 * [concrete-masonry-formulas](https://github.com/jimny2026a/concrete-masonry-formulas) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-17 - Open-sourced formulas and CSV data for concrete volume, bag yields, and brick/CMU counts (JS and Python, MIT); same math as the TrueToolCalc calculators.
-* [Python for Civil and Structural Engineers](https://github.com/DrSokac/Python-for-civil-and-structural-engineers) - Tutorials and examples for applying Python to civil and structural engineering problems.
 * [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
 * [SciPy](https://scipy.org/) - Scientific computing, optimization, sparse matrices, and numerical methods.
 * [Pandas](https://pandas.pydata.org/) - Tabular data analysis for reports, inspections, monitoring data, and spreadsheets.
@@ -425,10 +518,15 @@
 * [PySWMM](https://www.pyswmm.org/) - Python interface to EPA SWMM for reading, controlling, and modifying stormwater simulations at runtime.
 * [opstool](https://opstool.readthedocs.io/) - Pre-processing, post-processing, and visualization tools for OpenSeesPy models.
 * [COMPAS](https://compas.dev/) - Open-source Python framework for computational research in architecture, engineering, fabrication, and construction.
+* [PyVista](https://pyvista.org/) - 3D plotting and mesh analysis.
+* [pyproj](https://pyproj4.github.io/pyproj/) - Coordinate reference systems and transformations.
+* [xarray](https://xarray.dev/) - Labeled N-dimensional arrays for climate and hydrology data.
+* [Gmsh](https://gmsh.info/) - Finite element mesh generator with a Python API.
+* [Landlab](https://landlab.csdms.io/) - Earth-surface process and landscape modeling.
 
 ### JavaScript
 
-* [web-ifc](https://github.com/ThatOpen/engine_web-ifc) ⭐ 1,082 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-02 - WebAssembly-powered library for reading and writing IFC files in browsers and Node.js.
+* [web-ifc](https://github.com/ThatOpen/engine_web-ifc) ⭐ 1,086 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-03 - WebAssembly-powered library for reading and writing IFC files in browsers and Node.js.
 * [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Core JavaScript reference and learning material.
 * [Leaflet](https://leafletjs.com/) - Interactive web maps for GIS and infrastructure dashboards.
 * [OpenLayers](https://openlayers.org/) - Web mapping library for displaying and editing geospatial data.
@@ -439,10 +537,11 @@
 * [deck.gl](https://deck.gl/) - Large-scale geospatial visualization.
 * [Plotly.js](https://plotly.com/javascript/) - Interactive charts for calculations and engineering reports.
 * [geotiff.js](https://geotiffjs.github.io/geotiff.js/) - JavaScript library for reading GeoTIFF metadata and raster data in browsers and Node.js applications.
+* [MapLibre GL JS](https://maplibre.org/) - Open-source vector tile web maps.
 
 ### Julia
 
-* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 102 | 🌐 Julia | 📅 2026-11-01 - GDAL bindings for raster and vector geospatial workflows.
+* [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) ⭐ 150 | 🐛 103 | 🌐 Julia | 📅 2026-11-02 - GDAL bindings for raster and vector geospatial workflows.
 * [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) ⭐ 71 | 🐛 29 | 🌐 Julia | 📅 2026-10-23 - Read and write vector geospatial data.
 * [Julia Documentation](https://docs.julialang.org/en/v1/) - Official language documentation for scientific and technical computing.
 * [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
@@ -452,6 +551,7 @@
 
 ### R
 
+* [dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) ⭐ 335 | 🐛 7 | 🌐 R | 📅 2026-10-15 - Retrieve USGS and EPA hydrology and water quality data.
 * [R for Data Science](https://r4ds.hadley.nz/) - Practical guide for data import, cleaning, analysis, and visualization.
 * [sf](https://r-spatial.github.io/sf/) - Simple features for geospatial vector data.
 * [terra](https://rspatial.github.io/terra/) - Raster and vector spatial data analysis.
@@ -459,8 +559,9 @@
 * [ggplot2](https://ggplot2.tidyverse.org/) - Visualization for reports, monitoring, and exploratory analysis.
 * [hydroGOF](https://cran.r-project.org/package=hydroGOF) - Goodness-of-fit functions for hydrological model evaluation.
 * [tidyhydat](https://docs.ropensci.org/tidyhydat/articles/tidyhydat_an_introduction.html) - R interface for Environment and Climate Change Canada hydrometric data and reproducible water-data analysis.
+* [airGR](https://cran.r-project.org/package=airGR) - Lumped rainfall-runoff hydrological models.
 
-### C# and .NET
+### C# & .NET
 
 * [DotSpatial](https://github.com/DotSpatial/DotSpatial) ⭐ 919 | 🐛 256 | 🌐 C# | 📅 2025-10-22 - GIS library and desktop mapping components.
 * [SharpMap](https://github.com/SharpMap/SharpMap) ⭐ 861 | 🐛 48 | 🌐 C# | 📅 2025-01-06 - Mapping library for .NET applications.
@@ -473,9 +574,9 @@
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,957 | 🐛 131 | 🌐 Rust | 📅 2026-11-01 - Geospatial primitives, algorithms, and geometry operations.
+* [geo](https://github.com/georust/geo) ⭐ 1,957 | 🐛 133 | 🌐 Rust | 📅 2026-11-02 - Geospatial primitives, algorithms, and geometry operations.
 * [gdal](https://github.com/georust/gdal) ⭐ 457 | 🐛 68 | 🌐 Rust | 📅 2026-10-14 - Rust bindings for the GDAL geospatial raster and vector library.
-* [IFC-Lite](https://github.com/LTplus-AG/ifc-lite) ⭐ 455 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-02 - Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.
+* [IFC-Lite](https://github.com/LTplus-AG/ifc-lite) ⭐ 456 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-03 - Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.
 * [geojson](https://github.com/georust/geojson) ⭐ 350 | 🐛 23 | 🌐 Rust | 📅 2026-10-23 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 190 | 🐛 38 | 🌐 Rust | 📅 2026-10-29 - Coordinate projection bindings for Rust.
 * [ifc\_rs](https://github.com/MetabuildDev/ifc_rs) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2025-07-17 - Rust implementation of IFC types for reading, creating, and writing IFC building models.
@@ -490,4 +591,4 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
