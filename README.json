@@ -15,8 +15,8 @@
             "id": 284561556,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T10:58:31Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-03T07:32:36Z",
+            "open_issues": 28,
             "owner": "anuga-community",
             "repo": "anuga_core",
             "stars": 61,
@@ -36,6 +36,43 @@
             ]
           },
           "first_seen": "2026-10-06T02:22:55.139Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFLUME",
+          "description": "Open-source pipe network solver for steady and transient hydraulics with pumps, valves, and tanks, usable in the browser or from Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source thermo-fluid network solver (GFSSP / SINDA-FLUINT class) that runs entirely in your browser. Steady + transient, real fluids, two-phase, conjugate heat transfer. Verified against NASA benchmarks.",
+            "homepage": "https://openflume.github.io/OpenFLUME/",
+            "id": 1341200353,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-03T22:39:39Z",
+            "open_issues": 9,
+            "owner": "OpenFLUME",
+            "repo": "OpenFLUME",
+            "stars": 7,
+            "topics": [
+              "aerospace",
+              "coolprop",
+              "cryogenics",
+              "engineering",
+              "fluid-dynamics",
+              "gfssp",
+              "heat-transfer",
+              "microfluidics",
+              "network-solver",
+              "propulsion",
+              "rocket-engine",
+              "simulation",
+              "thermal-fluid",
+              "thermodynamics",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-11-04T02:31:30.978Z"
         },
         {
           "node_type": "item",
@@ -97,11 +134,11 @@
             "id": 81815495,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T21:27:27Z",
-            "open_issues": 763,
+            "last_commit": "2026-11-03T16:35:31Z",
+            "open_issues": 762,
             "owner": "KratosMultiphysics",
             "repo": "Kratos",
-            "stars": 1392,
+            "stars": 1393,
             "topics": [
               "bsd-license",
               "c-plus-plus",
@@ -136,7 +173,7 @@
             "open_issues": 0,
             "owner": "haoming-luo",
             "repo": "agentfem",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "abaqus",
               "agent-skills",
@@ -179,11 +216,11 @@
             "id": 1420807520,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T19:48:54Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-04T01:51:01Z",
+            "open_issues": 31,
             "owner": "IPedrax",
             "repo": "BIMCraft",
-            "stars": 887,
+            "stars": 909,
             "topics": []
           },
           "first_seen": "2026-10-30T02:03:56.349Z"
@@ -201,10 +238,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-22T19:32:20Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "ThatOpen",
             "repo": "engine_components",
-            "stars": 726,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-10-06T02:22:55.139Z"
@@ -225,7 +262,7 @@
             "open_issues": 1,
             "owner": "egmalt",
             "repo": "house-planner",
-            "stars": 357,
+            "stars": 361,
             "topics": [
               "3d",
               "architecture",
@@ -506,11 +543,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T23:23:41Z",
+            "last_commit": "2026-11-04T02:28:52Z",
             "open_issues": 13,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 1131,
+            "stars": 1149,
             "topics": [
               "ai",
               "bim",
@@ -548,11 +585,11 @@
             "id": 1188794036,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T17:59:39Z",
+            "last_commit": "2026-11-03T18:12:57Z",
             "open_issues": 2,
             "owner": "braedonsaunders",
             "repo": "bidwright",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "ai",
               "ai-agents",
@@ -584,7 +621,7 @@
             "id": 1242815792,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T14:33:32Z",
+            "last_commit": "2026-11-03T21:13:04Z",
             "open_issues": 8,
             "owner": "braedonsaunders",
             "repo": "beaconhs",
@@ -632,7 +669,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55095,
+            "stars": 55098,
             "topics": []
           },
           "first_seen": "2026-11-03T03:33:09.230Z"
@@ -653,7 +690,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34965,
+            "stars": 34966,
             "topics": []
           },
           "first_seen": "2026-11-03T03:33:09.230Z"
@@ -674,7 +711,7 @@
             "open_issues": 1967,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 33022,
+            "stars": 33023,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -745,7 +782,7 @@
                 "open_issues": 18,
                 "owner": "mozman",
                 "repo": "ezdxf",
-                "stars": 1516,
+                "stars": 1517,
                 "topics": []
               },
               "first_seen": "2026-11-03T03:33:09.230Z"
@@ -762,7 +799,7 @@
                 "id": 28000838,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T01:33:11Z",
+                "last_commit": "2026-11-04T01:33:13Z",
                 "open_issues": 61,
                 "owner": "modflowpy",
                 "repo": "flopy",
@@ -815,11 +852,11 @@
                 "id": 62470606,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-02T05:04:47Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-03T05:04:40Z",
+                "open_issues": 34,
                 "owner": "anastruct",
                 "repo": "anaStruct",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "axial-forces",
                   "displacement",
@@ -888,7 +925,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-17T07:39:08Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "robbievanleeuwen",
                 "repo": "concrete-properties",
                 "stars": 248,
@@ -954,12 +991,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Pile calculations package. OpenPile aims to be democratize pile calculations for engineers and researchers in academia.",
+                "description": "Pile calculations package. OpenPile aims at democratizing pile calculations for engineers and researchers in academia.",
                 "homepage": null,
                 "id": 584289322,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T22:03:32Z",
+                "last_commit": "2026-11-03T22:37:54Z",
                 "open_issues": 13,
                 "owner": "TchilDill",
                 "repo": "openpile",
@@ -1044,8 +1081,8 @@
                 "id": 318798304,
                 "language": "TypeScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-03T01:08:05Z",
-                "open_issues": 78,
+                "last_commit": "2026-11-04T01:23:03Z",
+                "open_issues": 77,
                 "owner": "ThatOpen",
                 "repo": "engine_web-ifc",
                 "stars": 1086,
@@ -1305,11 +1342,11 @@
                 "id": 29326047,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T22:04:16Z",
-                "open_issues": 133,
+                "last_commit": "2026-11-03T20:50:37Z",
+                "open_issues": 135,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1957,
+                "stars": 1959,
                 "topics": [
                   "geography",
                   "geometry",
@@ -1319,6 +1356,41 @@
                 ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IFC-Lite",
+              "description": "Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Parse, view, query, edit, validate and export building models. Browser-first WebGPU viewer, TypeScript SDK, CLI, MCP server and Rust/WASM core with dual exact-arithmetic & SMlib geometry kernels.",
+                "homepage": "https://ifclite.dev",
+                "id": 1131742715,
+                "language": "TypeScript",
+                "license": "MPL-2.0",
+                "last_commit": "2026-11-04T02:18:42Z",
+                "open_issues": 34,
+                "owner": "LTplus-AG",
+                "repo": "ifc-lite",
+                "stars": 458,
+                "topics": [
+                  "3d-viewer",
+                  "bcf",
+                  "cli",
+                  "columnar",
+                  "ids",
+                  "ifc",
+                  "ifc-parser",
+                  "mcp",
+                  "pointcloud",
+                  "rust",
+                  "script-editor",
+                  "sdk",
+                  "webgpu"
+                ]
+              },
+              "first_seen": "2026-10-06T02:22:55.139Z"
             },
             {
               "node_type": "item",
@@ -1345,41 +1417,6 @@
                 ]
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
-            },
-            {
-              "node_type": "item",
-              "title": "IFC-Lite",
-              "description": "Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Parse, view, query, edit, validate and export building models. Browser-first WebGPU viewer, TypeScript SDK, CLI, MCP server and Rust/WASM core with dual exact-arithmetic & SMlib geometry kernels.",
-                "homepage": "https://ifclite.dev",
-                "id": 1131742715,
-                "language": "TypeScript",
-                "license": "MPL-2.0",
-                "last_commit": "2026-11-03T00:12:38Z",
-                "open_issues": 44,
-                "owner": "LTplus-AG",
-                "repo": "ifc-lite",
-                "stars": 456,
-                "topics": [
-                  "3d-viewer",
-                  "bcf",
-                  "cli",
-                  "columnar",
-                  "ids",
-                  "ifc",
-                  "ifc-parser",
-                  "mcp",
-                  "pointcloud",
-                  "rust",
-                  "script-editor",
-                  "sdk",
-                  "webgpu"
-                ]
-              },
-              "first_seen": "2026-10-06T02:22:55.139Z"
             },
             {
               "node_type": "item",
@@ -1465,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:33:09.230Z",
+    "last_updated": "2026-11-04T02:31:30.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -1473,11 +1510,11 @@
       "id": 597700847,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-02T02:38:57Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-04T01:11:08Z",
+      "open_issues": 0,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
-      "stars": 110,
+      "stars": 112,
       "topics": [
         "aec",
         "awesome",
@@ -1499,7 +1536,7 @@
         "structural-engineering"
       ]
     },
-    "original_repository_sha": "66ec8ef923de31612879c3a6ab17137ae66dd68a",
+    "original_repository_sha": "a17e6d80cad10a526c4325292e7c65ee3fefa2f4",
     "enhanced_repository": "enhansome/enhansome-civil-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Civil Engineering with stars"
