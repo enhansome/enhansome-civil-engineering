@@ -15,7 +15,7 @@
             "id": 284561556,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T02:46:27Z",
+            "last_commit": "2026-11-10T10:32:29Z",
             "open_issues": 29,
             "owner": "anuga-community",
             "repo": "anuga_core",
@@ -49,8 +49,8 @@
             "id": 1341200353,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T23:22:00Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-11T00:19:46Z",
+            "open_issues": 16,
             "owner": "OpenFLUME",
             "repo": "OpenFLUME",
             "stars": 7,
@@ -134,11 +134,11 @@
             "id": 81815495,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T21:24:16Z",
-            "open_issues": 765,
+            "last_commit": "2026-11-10T18:40:46Z",
+            "open_issues": 768,
             "owner": "KratosMultiphysics",
             "repo": "Kratos",
-            "stars": 1396,
+            "stars": 1398,
             "topics": [
               "bsd-license",
               "c-plus-plus",
@@ -216,11 +216,11 @@
             "id": 1420807520,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:14:32Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-10T20:36:44Z",
+            "open_issues": 86,
             "owner": "IPedrax",
             "repo": "BIMCraft",
-            "stars": 1017,
+            "stars": 1036,
             "topics": []
           },
           "first_seen": "2026-10-30T02:03:56.349Z"
@@ -241,7 +241,7 @@
             "open_issues": 50,
             "owner": "ThatOpen",
             "repo": "engine_components",
-            "stars": 735,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-10-06T02:22:55.139Z"
@@ -262,7 +262,7 @@
             "open_issues": 1,
             "owner": "egmalt",
             "repo": "house-planner",
-            "stars": 390,
+            "stars": 393,
             "topics": [
               "3d",
               "architecture",
@@ -304,7 +304,7 @@
             "open_issues": 0,
             "owner": "Show2Instruct",
             "repo": "ifc-bonsai-mcp",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-10-06T02:22:55.139Z"
@@ -325,7 +325,7 @@
             "open_issues": 2,
             "owner": "JotaDeRodriguez",
             "repo": "Bonsai_mcp",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-10-06T02:22:55.139Z"
@@ -573,11 +573,11 @@
             "id": 1199643986,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T04:01:39Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-11T00:27:09Z",
+            "open_issues": 13,
             "owner": "datadrivenconstruction",
             "repo": "OpenConstructionERP",
-            "stars": 1344,
+            "stars": 1361,
             "topics": [
               "ai",
               "bim",
@@ -699,7 +699,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55116,
+            "stars": 55120,
             "topics": []
           },
           "first_seen": "2026-11-03T03:33:09.230Z"
@@ -741,7 +741,7 @@
             "open_issues": 1967,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 33031,
+            "stars": 33034,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -787,7 +787,7 @@
                 "id": 241504436,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T16:30:36Z",
+                "last_commit": "2026-11-11T00:20:26Z",
                 "open_issues": 5,
                 "owner": "connorferster",
                 "repo": "handcalcs",
@@ -812,7 +812,7 @@
                 "open_issues": 13,
                 "owner": "mozman",
                 "repo": "ezdxf",
-                "stars": 1523,
+                "stars": 1524,
                 "topics": []
               },
               "first_seen": "2026-11-03T03:33:09.230Z"
@@ -830,10 +830,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T12:03:36Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "modflowpy",
                 "repo": "flopy",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "modeling",
                   "plotting",
@@ -858,7 +858,7 @@
                 "open_issues": 35,
                 "owner": "USEPA",
                 "repo": "WNTR",
-                "stars": 474,
+                "stars": 476,
                 "topics": [
                   "modeling",
                   "ord",
@@ -886,7 +886,7 @@
                 "open_issues": 36,
                 "owner": "anastruct",
                 "repo": "anaStruct",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "axial-forces",
                   "displacement",
@@ -916,7 +916,7 @@
                 "open_issues": 51,
                 "owner": "connorferster",
                 "repo": "forallpeople",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-11-03T03:33:09.230Z"
@@ -933,7 +933,7 @@
                 "id": 543479859,
                 "language": "Jupyter Notebook",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-09T11:06:13Z",
+                "last_commit": "2026-11-10T15:14:07Z",
                 "open_issues": 0,
                 "owner": "wassimj",
                 "repo": "topologicpy",
@@ -958,7 +958,7 @@
                 "open_issues": 19,
                 "owner": "robbievanleeuwen",
                 "repo": "concrete-properties",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "computational-mechanics",
                   "concrete",
@@ -990,7 +990,7 @@
                 "open_issues": 1,
                 "owner": "geoeq",
                 "repo": "geoeq",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "bearing-capacity",
                   "civil-engineering",
@@ -1111,8 +1111,8 @@
                 "id": 318798304,
                 "language": "TypeScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-10T01:18:42Z",
-                "open_issues": 80,
+                "last_commit": "2026-11-11T01:45:52Z",
+                "open_issues": 75,
                 "owner": "ThatOpen",
                 "repo": "engine_web-ifc",
                 "stars": 1095,
@@ -1254,7 +1254,7 @@
                 "open_issues": 256,
                 "owner": "DotSpatial",
                 "repo": "DotSpatial",
-                "stars": 917,
+                "stars": 916,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:49.766Z"
@@ -1275,7 +1275,7 @@
                 "open_issues": 48,
                 "owner": "SharpMap",
                 "repo": "SharpMap",
-                "stars": 861,
+                "stars": 860,
                 "topics": [
                   "gis",
                   "map",
@@ -1321,7 +1321,7 @@
                 "open_issues": 54,
                 "owner": "NetTopologySuite",
                 "repo": "ProjNet4GeoAPI",
-                "stars": 300,
+                "stars": 299,
                 "topics": [
                   "c-sharp",
                   "geoapi",
@@ -1376,7 +1376,7 @@
                 "open_issues": 143,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1963,
+                "stars": 1965,
                 "topics": [
                   "geography",
                   "geometry",
@@ -1399,11 +1399,11 @@
                 "id": 1131742715,
                 "language": "TypeScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-10T04:05:27Z",
-                "open_issues": 92,
+                "last_commit": "2026-11-11T01:37:53Z",
+                "open_issues": 75,
                 "owner": "LTplus-AG",
                 "repo": "ifc-lite",
-                "stars": 467,
+                "stars": 470,
                 "topics": [
                   "3d-viewer",
                   "bcf",
@@ -1438,7 +1438,7 @@
                 "open_issues": 69,
                 "owner": "georust",
                 "repo": "gdal",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "gdal",
                   "geospatial",
@@ -1464,7 +1464,7 @@
                 "open_issues": 25,
                 "owner": "georust",
                 "repo": "geojson",
-                "stars": 350,
+                "stars": 351,
                 "topics": [
                   "geojson",
                   "geospatial",
@@ -1485,8 +1485,8 @@
                 "id": 38347679,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T10:39:19Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-10T19:52:44Z",
+                "open_issues": 32,
                 "owner": "georust",
                 "repo": "proj",
                 "stars": 190,
@@ -1532,7 +1532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:14:02.150Z",
+    "last_updated": "2026-11-11T02:02:27.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome civil engineering software and programming reosurces",
@@ -1541,10 +1541,10 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-11-10T00:14:43Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "QuantumNovice",
       "repo": "awesome-civil-engineering",
-      "stars": 115,
+      "stars": 116,
       "topics": [
         "aec",
         "awesome",
