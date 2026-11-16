@@ -49,7 +49,7 @@
 
 ## Water Resources & Drainage
 
-* [ANUGA](https://github.com/anuga-community/anuga_core) ⭐ 64 | 🐛 32 | 🌐 Python | 📅 2026-11-14 - Open-source shallow-water solver for flood, tsunami, and storm-surge inundation modeling with a Python interface.
+* [ANUGA](https://github.com/anuga-community/anuga_core) ⭐ 64 | 🐛 29 | 🌐 Python | 📅 2026-11-15 - Open-source shallow-water solver for flood, tsunami, and storm-surge inundation modeling with a Python interface.
 * [OpenFLUME](https://github.com/OpenFLUME/OpenFLUME) ⭐ 7 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-12 - Open-source pipe network solver for steady and transient hydraulics with pumps, valves, and tanks, usable in the browser or from Python.
 * [Canal Design](https://github.com/QuantumNovice/Canal-Design) ⭐ 0 | 🐛 0 | 📅 2022-05-24 - Android app for designing smooth lined concrete canals.
 * [Design Unlined Canal](https://github.com/QuantumNovice/Design-Unlined-Canal) ⭐ 0 | 🐛 0 | 📅 2022-05-21 - Unlined canal design using Kennedy's silt theory.
@@ -122,7 +122,7 @@
 ## Structural Simulation Software
 
 * [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,402 | 🐛 767 | 🌐 C++ | 📅 2026-11-14 - Open-source C++/Python framework for parallel multiphysics simulation, including structural, fluid, geomechanics, and DEM applications.
-* [AgentFEM](https://github.com/haoming-luo/agentfem) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - Open-source FEniCSx-based finite-element workflows for solid mechanics, thermoelasticity, and vibration, with Python models, command-line runs, and result verification.
+* [AgentFEM](https://github.com/haoming-luo/agentfem) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Open-source FEniCSx-based finite-element workflows for solid mechanics, thermoelasticity, and vibration, with Python models, command-line runs, and result verification.
 * [Ansys](https://www.ansys.com/) - Multiphysics simulation software.
 * [Abaqus](https://www.3ds.com/products/simulia/abaqus) - Finite element analysis software.
 * [LS-DYNA](https://www.ansys.com/products/structures/ansys-ls-dyna) - Dynamic and nonlinear simulation software.
@@ -157,7 +157,7 @@
 * [Slide2](https://www.rocscience.com/software/slide2) - 2D limit equilibrium slope stability analysis for soil and rock slopes, embankments, and retaining walls.
 * [GEO5](https://www.finesoftware.eu/geotechnical-software/) - Suite of geotechnical programs for foundations, retaining walls, slopes, piles, excavations, and tunnels.
 * [Leapfrog Works](https://www.seequent.com/products-solutions/leapfrog-works/) - 3D geological modeling of ground conditions for civil and infrastructure projects.
-* [X Slope](https://github.com/njones61/xslope) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Open-source python package for seepage and slope stability analysis
+* [X Slope](https://github.com/njones61/xslope) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - Open-source python package for seepage and slope stability analysis
 * [DEEPSOIL](https://deepsoil.cee.illinois.edu/) - 1D site response analysis in the time and frequency domains.
 * [OPTUM G2/G3](https://optumce.com/) - Geotechnical finite element and limit analysis in 2D and 3D.
 * [ZSoil](https://www.zsoil.com/) - Finite element analysis for soil-structure interaction.
@@ -229,9 +229,9 @@
 
 ## BIM & Digital Twins
 
-* [BIM Craft](https://github.com/IPedrax/BIMCraft) ⭐ 1,083 | 🐛 52 | 🌐 Rust | 📅 2026-11-15 - Open-Source BIM software for AEC workflows with support for Revit and IFC files.
+* [BIM Craft](https://github.com/IPedrax/BIMCraft) ⭐ 1,102 | 🐛 63 | 🌐 Rust | 📅 2026-11-16 - Open-Source BIM software for AEC workflows with support for Revit and IFC files.
 * [That Open Engine](https://github.com/ThatOpen/engine_components) ⭐ 742 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-08 - Open-source TypeScript components for building browser-based BIM and IFC applications.
-* [House Planner](https://github.com/egmalt/house-planner) ⭐ 398 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
+* [House Planner](https://github.com/egmalt/house-planner) ⭐ 399 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
 * [ifc-bonsai-mcp](https://github.com/Show2Instruct/ifc-bonsai-mcp) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - Model Context Protocol server that connects LLMs to IFC-based BIM authoring workflows in Blender through Bonsai.
 * [Bonsai-mcp](https://github.com/JotaDeRodriguez/Bonsai_mcp) ⭐ 68 | 🐛 2 | 🌐 Python | 📅 2026-09-06 - Model Context Protocol server for Blender and Bonsai that lets LLMs inspect, query, and modify IFC models.
 * [ifcMCP](https://github.com/smartaec/ifcMCP) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2025-06-08 - Model Context Protocol server built on IfcOpenShell that lets LLM agents query entities and properties in IFC files.
@@ -426,7 +426,7 @@
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 1,406 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-15 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 1,410 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-16 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 84 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
 * [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 14 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-13 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
@@ -499,8 +499,8 @@
 
 ### Python
 
-* [handcalcs](https://github.com/connorferster/handcalcs) ⭐ 5,812 | 🐛 9 | 🌐 Python | 📅 2026-11-14 - Render Python calculations as hand-calculation style LaTeX.
-* [ezdxf](https://github.com/mozman/ezdxf) ⭐ 1,529 | 🐛 12 | 🌐 Python | 📅 2026-11-14 - Read and write DXF drawings.
+* [handcalcs](https://github.com/connorferster/handcalcs) ⭐ 5,813 | 🐛 9 | 🌐 Python | 📅 2026-11-14 - Render Python calculations as hand-calculation style LaTeX.
+* [ezdxf](https://github.com/mozman/ezdxf) ⭐ 1,530 | 🐛 12 | 🌐 Python | 📅 2026-11-14 - Read and write DXF drawings.
 * [FloPy](https://github.com/modflowpy/flopy) ⭐ 644 | 🐛 63 | 🌐 Python | 📅 2026-11-11 - Build, run, and post-process MODFLOW models.
 * [WNTR](https://github.com/USEPA/WNTR) ⭐ 476 | 🐛 33 | 🌐 Python | 📅 2026-11-11 - EPA Water Network Tool for Resilience for EPANET-compatible water distribution simulation under disaster scenarios.
 * [anaStruct](https://github.com/anastruct/anaStruct) ⭐ 474 | 🐛 37 | 🌐 Python | 📅 2026-11-13 - 2D frame and truss structural analysis in Python.
@@ -534,7 +534,7 @@
 
 ### JavaScript
 
-* [web-ifc](https://github.com/ThatOpen/engine_web-ifc) ⭐ 1,097 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-13 - WebAssembly-powered library for reading and writing IFC files in browsers and Node.js.
+* [web-ifc](https://github.com/ThatOpen/engine_web-ifc) ⭐ 1,097 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-16 - WebAssembly-powered library for reading and writing IFC files in browsers and Node.js.
 * [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Core JavaScript reference and learning material.
 * [Leaflet](https://leafletjs.com/) - Interactive web maps for GIS and infrastructure dashboards.
 * [OpenLayers](https://openlayers.org/) - Web mapping library for displaying and editing geospatial data.
@@ -583,9 +583,9 @@
 ### Rust
 
 * [geo](https://github.com/georust/geo) ⭐ 1,967 | 🐛 136 | 🌐 Rust | 📅 2026-11-14 - Geospatial primitives, algorithms, and geometry operations.
-* [IFC-Lite](https://github.com/LTplus-AG/ifc-lite) ⭐ 473 | 🐛 68 | 🌐 TypeScript | 📅 2026-11-15 - Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.
+* [IFC-Lite](https://github.com/LTplus-AG/ifc-lite) ⭐ 473 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-16 - Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.
 * [gdal](https://github.com/georust/gdal) ⭐ 459 | 🐛 69 | 🌐 Rust | 📅 2026-10-14 - Rust bindings for the GDAL geospatial raster and vector library.
-* [geojson](https://github.com/georust/geojson) ⭐ 351 | 🐛 25 | 🌐 Rust | 📅 2026-10-23 - Read and write GeoJSON data.
+* [geojson](https://github.com/georust/geojson) ⭐ 351 | 🐛 26 | 🌐 Rust | 📅 2026-10-23 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 190 | 🐛 27 | 🌐 Rust | 📅 2026-11-12 - Coordinate projection bindings for Rust.
 * [ifc\_rs](https://github.com/MetabuildDev/ifc_rs) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2025-07-17 - Rust implementation of IFC types for reading, creating, and writing IFC building models.
 * [The Rust Book](https://doc.rust-lang.org/book/) - Official Rust learning resource.
@@ -599,4 +599,4 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
