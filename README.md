@@ -122,8 +122,8 @@
 
 ## Structural Simulation Software
 
-* [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,413 | 🐛 767 | 🌐 C++ | 📅 2026-11-23 - Open-source C++/Python framework for parallel multiphysics simulation, including structural, fluid, geomechanics, and DEM applications.
-* [AgentFEM](https://github.com/haoming-luo/agentfem) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2026-11-24 - Open-source FEniCSx-based finite-element workflows for solid mechanics, thermoelasticity, and vibration, with Python models, command-line runs, and result verification.
+* [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,414 | 🐛 767 | 🌐 C++ | 📅 2026-11-24 - Open-source C++/Python framework for parallel multiphysics simulation, including structural, fluid, geomechanics, and DEM applications.
+* [AgentFEM](https://github.com/haoming-luo/agentfem) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2026-11-25 - Open-source FEniCSx-based finite-element workflows for solid mechanics, thermoelasticity, and vibration, with Python models, command-line runs, and result verification.
 * [Ansys](https://www.ansys.com/) - Multiphysics simulation software.
 * [Abaqus](https://www.3ds.com/products/simulia/abaqus) - Finite element analysis software.
 * [LS-DYNA](https://www.ansys.com/products/structures/ansys-ls-dyna) - Dynamic and nonlinear simulation software.
@@ -158,7 +158,7 @@
 * [Slide2](https://www.rocscience.com/software/slide2) - 2D limit equilibrium slope stability analysis for soil and rock slopes, embankments, and retaining walls.
 * [GEO5](https://www.finesoftware.eu/geotechnical-software/) - Suite of geotechnical programs for foundations, retaining walls, slopes, piles, excavations, and tunnels.
 * [Leapfrog Works](https://www.seequent.com/products-solutions/leapfrog-works/) - 3D geological modeling of ground conditions for civil and infrastructure projects.
-* [X Slope](https://github.com/njones61/xslope) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-11-24 - Open-source python package for seepage and slope stability analysis
+* [X Slope](https://github.com/njones61/xslope) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-11-25 - Open-source python package for seepage and slope stability analysis
 * [DEEPSOIL](https://deepsoil.cee.illinois.edu/) - 1D site response analysis in the time and frequency domains.
 * [OPTUM G2/G3](https://optumce.com/) - Geotechnical finite element and limit analysis in 2D and 3D.
 * [ZSoil](https://www.zsoil.com/) - Finite element analysis for soil-structure interaction.
@@ -229,8 +229,8 @@
 
 ## BIM & Digital Twins
 
-* [BIM Craft](https://github.com/IPedrax/BIMCraft) ⭐ 1,194 | 🐛 47 | 🌐 Rust | 📅 2026-11-24 - Open-Source BIM software for AEC workflows with support for Revit and IFC files.
-* [That Open Engine](https://github.com/ThatOpen/engine_components) ⭐ 751 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-23 - Open-source TypeScript components for building browser-based BIM and IFC applications.
+* [BIM Craft](https://github.com/IPedrax/BIMCraft) ⭐ 1,203 | 🐛 48 | 🌐 Rust | 📅 2026-11-25 - Open-Source BIM software for AEC workflows with support for Revit and IFC files.
+* [That Open Engine](https://github.com/ThatOpen/engine_components) ⭐ 752 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-23 - Open-source TypeScript components for building browser-based BIM and IFC applications.
 * [House Planner](https://github.com/egmalt/house-planner) ⭐ 410 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
 * [ifc-bonsai-mcp](https://github.com/Show2Instruct/ifc-bonsai-mcp) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - Model Context Protocol server that connects LLMs to IFC-based BIM authoring workflows in Blender through Bonsai.
 * [Bonsai-mcp](https://github.com/JotaDeRodriguez/Bonsai_mcp) ⭐ 69 | 🐛 2 | 🌐 Python | 📅 2026-09-06 - Model Context Protocol server for Blender and Bonsai that lets LLMs inspect, query, and modify IFC models.
@@ -300,7 +300,7 @@
 
 ## Calculations
 
-* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
+* [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
 * [Construction Charts](https://github.com/klm-labs/construction-charts) ⭐ 0 | 🐛 0 | 📅 2026-11-07 - CC BY 4.0 CSV and PDF tables: stair rise and run, roof pitch, board feet, concrete bags, crown angles.
 * [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Free mathematical notebook program for engineering calculations.
 * [Mathcad](https://www.ptc.com/en/products/mathcad) - Engineering calculation worksheet software.
@@ -432,9 +432,9 @@
 
 ## Project Management
 
-* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 1,485 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-24 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+* [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) ⭐ 1,492 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-25 - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
 * [BidWright](https://github.com/braedonsaunders/bidwright) ⭐ 84 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03 - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
-* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 14 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-23 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
+* [BeaconHS](https://github.com/braedonsaunders/beaconhs) ⭐ 14 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-24 - Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety.
 * [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 * [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 * [Procore](https://www.procore.com/) - Cloud-based construction project management.
@@ -481,8 +481,8 @@
 
 ## Machine Learning & AI
 
-* [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 55,172 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18 - Foundation model for image segmentation workflows.
-* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 35,005 | 🐛 599 | 🌐 Python | 📅 2026-10-27 - Object detection and segmentation library.
+* [Segment Anything](https://github.com/facebookresearch/segment-anything) ⭐ 55,175 | 🐛 598 | 🌐 Jupyter Notebook | 📅 2024-09-18 - Foundation model for image segmentation workflows.
+* [Detectron2](https://github.com/facebookresearch/detectron2) ⭐ 35,007 | 🐛 599 | 🌐 Python | 📅 2026-10-27 - Object detection and segmentation library.
 * [MMDetection](https://github.com/open-mmlab/mmdetection) ⭐ 33,053 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21 - Object detection toolbox and model zoo.
 * [TensorFlow](https://www.tensorflow.org/) - Machine learning library developed by Google.
 * [PyTorch](https://pytorch.org/) - Machine learning library.
@@ -505,14 +505,14 @@
 
 ### Python
 
-* [handcalcs](https://github.com/connorferster/handcalcs) ⭐ 5,815 | 🐛 3 | 🌐 Python | 📅 2026-11-23 - Render Python calculations as hand-calculation style LaTeX.
-* [ezdxf](https://github.com/mozman/ezdxf) ⭐ 1,547 | 🐛 12 | 🌐 Python | 📅 2026-11-23 - Read and write DXF drawings.
-* [FloPy](https://github.com/modflowpy/flopy) ⭐ 644 | 🐛 67 | 🌐 Python | 📅 2026-11-17 - Build, run, and post-process MODFLOW models.
-* [WNTR](https://github.com/USEPA/WNTR) ⭐ 477 | 🐛 31 | 🌐 Python | 📅 2026-11-11 - EPA Water Network Tool for Resilience for EPANET-compatible water distribution simulation under disaster scenarios.
+* [handcalcs](https://github.com/connorferster/handcalcs) ⭐ 5,816 | 🐛 2 | 🌐 Python | 📅 2026-11-24 - Render Python calculations as hand-calculation style LaTeX.
+* [ezdxf](https://github.com/mozman/ezdxf) ⭐ 1,548 | 🐛 13 | 🌐 Python | 📅 2026-11-24 - Read and write DXF drawings.
+* [FloPy](https://github.com/modflowpy/flopy) ⭐ 645 | 🐛 70 | 🌐 Python | 📅 2026-11-24 - Build, run, and post-process MODFLOW models.
+* [WNTR](https://github.com/USEPA/WNTR) ⭐ 479 | 🐛 31 | 🌐 Python | 📅 2026-11-11 - EPA Water Network Tool for Resilience for EPANET-compatible water distribution simulation under disaster scenarios.
 * [anaStruct](https://github.com/anastruct/anaStruct) ⭐ 477 | 🐛 33 | 🌐 Python | 📅 2026-11-23 - 2D frame and truss structural analysis in Python.
 * [forallpeople](https://github.com/connorferster/forallpeople) ⭐ 380 | 🐛 51 | 🌐 Python | 📅 2026-11-18 - SI units for engineering calculations.
-* [topologicpy](https://github.com/wassimj/topologicpy) ⭐ 281 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-21 - Python library for non-manifold topology and spatial modeling of buildings and graphs.
-* [concreteproperties](https://github.com/robbievanleeuwen/concrete-properties) ⭐ 255 | 🐛 19 | 🌐 Python | 📅 2026-09-17 - Section properties, moment-curvature, and interaction diagrams for reinforced concrete sections.
+* [topologicpy](https://github.com/wassimj/topologicpy) ⭐ 281 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-24 - Python library for non-manifold topology and spatial modeling of buildings and graphs.
+* [concreteproperties](https://github.com/robbievanleeuwen/concrete-properties) ⭐ 255 | 🐛 20 | 🌐 Python | 📅 2026-09-17 - Section properties, moment-curvature, and interaction diagrams for reinforced concrete sections.
 * [GeoEq](https://github.com/geoeq/geoeq) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2026-07-30 - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
 * [OpenPile](https://github.com/TchilDill/openpile) ⭐ 40 | 🐛 13 | 🌐 Python | 📅 2026-11-07 - Python package for laterally and axially loaded pile calculations.
 * [ModifiedCamClay](https://github.com/QuantumNovice/ModifiedCamClay) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - Modified Cam Clay constitutive model for drained and undrained triaxial loading.
@@ -540,7 +540,7 @@
 
 ### JavaScript
 
-* [web-ifc](https://github.com/ThatOpen/engine_web-ifc) ⭐ 1,105 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-23 - WebAssembly-powered library for reading and writing IFC files in browsers and Node.js.
+* [web-ifc](https://github.com/ThatOpen/engine_web-ifc) ⭐ 1,106 | 🐛 75 | 🌐 TypeScript | 📅 2026-11-25 - WebAssembly-powered library for reading and writing IFC files in browsers and Node.js.
 * [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Core JavaScript reference and learning material.
 * [Leaflet](https://leafletjs.com/) - Interactive web maps for GIS and infrastructure dashboards.
 * [OpenLayers](https://openlayers.org/) - Web mapping library for displaying and editing geospatial data.
@@ -565,7 +565,7 @@
 
 ### R
 
-* [dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) ⭐ 336 | 🐛 9 | 🌐 R | 📅 2026-11-04 - Retrieve USGS and EPA hydrology and water quality data.
+* [dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) ⭐ 337 | 🐛 9 | 🌐 R | 📅 2026-11-04 - Retrieve USGS and EPA hydrology and water quality data.
 * [R for Data Science](https://r4ds.hadley.nz/) - Practical guide for data import, cleaning, analysis, and visualization.
 * [sf](https://r-spatial.github.io/sf/) - Simple features for geospatial vector data.
 * [terra](https://rspatial.github.io/terra/) - Raster and vector spatial data analysis.
@@ -588,8 +588,8 @@
 
 ### Rust
 
-* [geo](https://github.com/georust/geo) ⭐ 1,970 | 🐛 138 | 🌐 Rust | 📅 2026-11-14 - Geospatial primitives, algorithms, and geometry operations.
-* [IFC-Lite](https://github.com/LTplus-AG/ifc-lite) ⭐ 484 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-24 - Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.
+* [geo](https://github.com/georust/geo) ⭐ 1,971 | 🐛 122 | 🌐 Rust | 📅 2026-11-25 - Geospatial primitives, algorithms, and geometry operations.
+* [IFC-Lite](https://github.com/LTplus-AG/ifc-lite) ⭐ 487 | 🐛 112 | 🌐 TypeScript | 📅 2026-11-25 - Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.
 * [gdal](https://github.com/georust/gdal) ⭐ 458 | 🐛 71 | 🌐 Rust | 📅 2026-10-14 - Rust bindings for the GDAL geospatial raster and vector library.
 * [geojson](https://github.com/georust/geojson) ⭐ 350 | 🐛 23 | 🌐 Rust | 📅 2026-11-18 - Read and write GeoJSON data.
 * [proj](https://github.com/georust/proj) ⭐ 190 | 🐛 27 | 🌐 Rust | 📅 2026-11-12 - Coordinate projection bindings for Rust.
@@ -605,4 +605,4 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
